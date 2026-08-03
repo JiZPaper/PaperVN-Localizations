@@ -4,6 +4,159 @@
     "" : {
       "shouldTranslate" : false
     },
+    "“为你推荐”偏好分析" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“For You” Preference Analysis"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「あなたにおすすめ」の嗜好分析"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "‘추천’ 취향 분석"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“为你推荐”偏好分析"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「為你推薦」偏好分析"
+          }
+        }
+      }
+    },
+    "“开源项目（离线）”模式需要从GitHub下载完整翻译文件（%@）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“Open Source Project (Offline)” mode requires the complete translation file to be downloaded from GitHub (%@)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「オープンソースプロジェクト（オフライン）」モードでは、GitHubから完全な翻訳ファイル（%@）をダウンロードする必要があります"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "‘오픈 소스 프로젝트(오프라인)’ 모드를 사용하려면 GitHub에서 전체 번역 파일(%@)을 다운로드해야 합니다"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「開源專案（離線）」模式需要從GitHub下載完整翻譯檔案（%@）"
+          }
+        }
+      }
+    },
+    "“设备端模型”模式：在简介旁边显示翻译按钮，使用Apple离线翻译模型进行翻译；\n“开源项目（获取）”模式：直接从GitHub获取翻译，并替换原简介文本；\n“开源项目（离线）”模式：先从GitHub上下载完整翻译文件，再替换原简介文本。\n尚未完成翻译的简介依然使用设备端模型自动翻译。你可以前往关于页面了解此开源项目的更多信息。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“On-Device Model” mode: Displays a translate button next to each description and uses Apple’s offline translation models.\n“Open Source Project (Fetch)” mode: Fetches translations directly from GitHub and replaces the original description text.\n“Open Source Project (Offline)” mode: Downloads the complete translation file from GitHub first, then replaces the original description text.\nDescriptions without completed translations will still be translated automatically using the on-device model. Visit the About page to learn more about this open source project."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「オンデバイスモデル」モード：紹介文の横に翻訳ボタンを表示し、Appleのオフライン翻訳モデルを使って翻訳します。\n「オープンソースプロジェクト（取得）」モード：GitHubから翻訳を直接取得し、元の紹介文を置き換えます。\n「オープンソースプロジェクト（オフライン）」モード：最初にGitHubから完全な翻訳ファイルをダウンロードし、元の紹介文を置き換えます。\n翻訳が完了していない紹介文は、引き続きオンデバイスモデルで自動翻訳されます。このオープンソースプロジェクトの詳細は「このAppについて」ページで確認できます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "‘온디바이스 모델’ 모드: 소개 옆에 번역 버튼을 표시하고 Apple 오프라인 번역 모델로 번역합니다.\n‘오픈 소스 프로젝트(가져오기)’ 모드: GitHub에서 번역을 직접 가져와 원문 소개를 대체합니다.\n‘오픈 소스 프로젝트(오프라인)’ 모드: 먼저 GitHub에서 전체 번역 파일을 다운로드한 다음 원문 소개를 대체합니다.\n아직 번역되지 않은 소개는 계속 온디바이스 모델로 자동 번역됩니다. 이 오픈 소스 프로젝트에 관한 자세한 내용은 ‘정보’ 페이지에서 확인할 수 있습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「裝置端模型」模式：在簡介旁顯示翻譯按鈕，使用Apple離線翻譯模型進行翻譯。\n「開源專案（取得）」模式：直接從GitHub取得翻譯，並取代原始簡介文字。\n「開源專案（離線）」模式：先從GitHub下載完整翻譯檔案，再取代原始簡介文字。\n尚未完成翻譯的簡介仍會使用裝置端模型自動翻譯。你可以前往「關於」頁面進一步瞭解此開源專案。"
+          }
+        }
+      }
+    },
+    "%@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · %2$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · %2$@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · %2$@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@·发行版本" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Releases by %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@のリリース"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 출시 버전"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@·發行版本"
+          }
+        }
+      }
+    },
     "%@人评分" : {
       "localizations" : {
         "en" : {
@@ -94,6 +247,118 @@
         }
       }
     },
+    "%lldcm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld cm"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lldcm"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lldcm"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld公分"
+          }
+        }
+      }
+    },
+    "%lldkg" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld kg"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lldkg"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lldkg"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld公斤"
+          }
+        }
+      }
+    },
+    "%lld个平台" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld platforms"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld個のプラットフォーム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "플랫폼 %lld개"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld個平台"
+          }
+        }
+      }
+    },
+    "%lld个角色" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld characters"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld人のキャラクター"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "캐릭터 %lld명"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld個角色"
+          }
+        }
+      }
+    },
     "%lld人" : {
       "localizations" : {
         "en" : {
@@ -146,6 +411,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld則評分"
+          }
+        }
+      }
+    },
+    "%lld分" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld points"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld点"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld점"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld分"
           }
         }
       }
@@ -240,6 +533,34 @@
         }
       }
     },
+    "%lld岁" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld years old"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld歳"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld세"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld歲"
+          }
+        }
+      }
+    },
     "%lld年" : {
       "localizations" : {
         "en" : {
@@ -330,6 +651,90 @@
         }
       }
     },
+    "%lld月生日角色" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Characters Born in Month %lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld月生まれのキャラクター"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld월생 캐릭터"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld月生日角色"
+          }
+        }
+      }
+    },
+    "%lld种可用语言" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld available languages"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用可能な言語：%lld"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용 가능한 언어 %lld개"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld種可用語言"
+          }
+        }
+      }
+    },
+    "%lld部作品" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld titles"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld作品"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작품 %lld개"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld部作品"
+          }
+        }
+      }
+    },
     "%lld项" : {
       "localizations" : {
         "en" : {
@@ -416,6 +821,118 @@
       },
       "shouldTranslate" : false
     },
+    "1分，不感兴趣" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1, not interested"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1点、興味なし"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1점, 관심 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1分，不感興趣"
+          }
+        }
+      }
+    },
+    "5分，有点意思" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5, somewhat interesting"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5点、少し興味あり"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5점, 조금 흥미로움"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5分，有點意思"
+          }
+        }
+      }
+    },
+    "13～15岁" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ages 13–15"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13～15歳"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13~15세"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13～15歲"
+          }
+        }
+      }
+    },
+    "16～17岁" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ages 16–17"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "16～17歳"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "16~17세"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "16～17歲"
+          }
+        }
+      }
+    },
     "Android" : {
       "localizations" : {
         "en" : {
@@ -496,6 +1013,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Blu-ray Player"
+          }
+        }
+      }
+    },
+    "Discord服务器" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord Server"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discordサーバ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord 서버"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord伺服器"
           }
         }
       }
@@ -668,6 +1213,118 @@
         }
       }
     },
+    "GitHub没有返回有效的简介翻译文件。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub didn’t return a valid description translation file."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHubから有効な紹介文の翻訳ファイルが返されませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub에서 유효한 소개 번역 파일을 반환하지 않았습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub未傳回有效的簡介翻譯檔案。"
+          }
+        }
+      }
+    },
+    "GitHub返回了HTTP错误（%d）。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub returned an HTTP error (%d)."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHubからHTTPエラー（%d）が返されました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub에서 HTTP 오류(%d)를 반환했습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub傳回HTTP錯誤（%d）。"
+          }
+        }
+      }
+    },
+    "iCloud" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud"
+          }
+        }
+      }
+    },
+    "iCloud同步" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud Sync"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud同期"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud 동기화"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud同步"
+          }
+        }
+      }
+    },
     "ID" : {
       "localizations" : {
         "en" : {
@@ -723,6 +1380,9 @@
           }
         }
       }
+    },
+    "JiZPaper@gmail.com" : {
+      "shouldTranslate" : false
     },
     "Linux" : {
       "localizations" : {
@@ -948,6 +1608,34 @@
         }
       }
     },
+    "PaperVN" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN"
+          }
+        }
+      }
+    },
     "PaperVN Premium" : {
       "localizations" : {
         "en" : {
@@ -976,30 +1664,58 @@
         }
       }
     },
-    "PaperVN Premium尚未在App Store中上架。" : {
+    "PaperVN可以连接你的VNDB账户，记录你的视觉小说游玩进度或发现新的视觉小说。" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PaperVN Premium isn’t yet available on the App Store."
+            "value" : "PaperVN can connect to your VNDB account, letting you track your visual novel progress and discover new titles."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PaperVN PremiumはApp Storeでまだ提供されていません。"
+            "value" : "PaperVNはVNDBアカウントと連携し、ビジュアルノベルのプレイ状況を記録したり、新しい作品を見つけたりできます。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PaperVN Premium은 아직 App Store에서 제공되지 않습니다."
+            "value" : "PaperVN을 VNDB 계정에 연결해 비주얼 노벨 플레이 진행 상황을 기록하거나 새로운 작품을 발견할 수 있습니다."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PaperVN Premium尚未在App Store上架。"
+            "value" : "PaperVN可以連結你的VNDB帳號，記錄你的視覺小說遊玩進度或探索新的視覺小說。"
+          }
+        }
+      }
+    },
+    "PaperVN完全使用SwiftUI制作。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN is built entirely with SwiftUI."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNはすべてSwiftUIで作られています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN은 SwiftUI만으로 제작되었습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN完全使用SwiftUI製作。"
           }
         }
       }
@@ -1034,6 +1750,118 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PaperVN會依照「偏好語言＞備用語言＞VNDB預設標題」的順序取得標題。"
+          }
+        }
+      }
+    },
+    "PaperVN提供丰富的自定义设置，包括语言与翻译、外观、安全与内容限制等。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN offers extensive customization, including language and translation, appearance, security, and content restrictions."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNには、言語と翻訳、外観、セキュリティとコンテンツ制限など、豊富なカスタマイズ設定が用意されています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN은 언어 및 번역, 외관, 보안 및 콘텐츠 제한 등 다양한 사용자 설정을 제공합니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN提供豐富的自訂設定，包括語言與翻譯、外觀、安全性與內容限制等。"
+          }
+        }
+      }
+    },
+    "PaperVN支持多语言本地化，甚至为6000+个标签与特征提供了不同语言的翻译。我们正在持续扩大PaperVN支持的语言范围。如果你发现任何翻译错误，或想为PaperVN的本地化提供协助，可以稍后前往“资料库 > 用户与设置”查看所有联系方式。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN supports localization in multiple languages, with translations for more than 6,000 tags and traits. We’re continually expanding the languages PaperVN supports. If you find a translation error or would like to help localize PaperVN, you can find all our contact options later under Library > User & Settings."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNは多言語ローカライズに対応し、6,000以上のタグと特徴にも各言語の翻訳を用意しています。PaperVNが対応する言語は今後も拡大していきます。翻訳の誤りを見つけた場合や、PaperVNのローカライズにご協力いただける場合は、後から「ライブラリ > ユーザーと設定」で連絡先をご確認いただけます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN은 다국어 현지화를 지원하며 6,000개 이상의 태그와 특성도 여러 언어로 번역해 제공합니다. PaperVN이 지원하는 언어는 계속 확대하고 있습니다. 번역 오류를 발견했거나 PaperVN 현지화에 기여하고 싶다면 나중에 ‘라이브러리 > 사용자 및 설정’에서 모든 연락처를 확인할 수 있습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN支援多語言本地化，甚至為6,000+個標籤與特徵提供不同語言的翻譯。我們正持續擴大PaperVN支援的語言範圍。如果你發現任何翻譯錯誤，或想協助PaperVN的本地化，可以稍後前往「資料庫 > 使用者與設定」查看所有聯絡方式。"
+          }
+        }
+      }
+    },
+    "PaperVN界面预览" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN interface preview"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNの画面プレビュー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN 화면 미리보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN介面預覽"
+          }
+        }
+      }
+    },
+    "PaperVN需要一些时间分析你的偏好。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN needs some time to analyze your preferences."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNが好みを分析するには少し時間がかかります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN이 취향을 분석하는 데 시간이 조금 걸립니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN需要一些時間分析你的偏好。"
           }
         }
       }
@@ -1346,6 +2174,34 @@
         }
       }
     },
+    "QQ群" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QQ Group"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QQグループ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QQ 그룹"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QQ群組"
+          }
+        }
+      }
+    },
     "Sega Saturn" : {
       "localizations" : {
         "en" : {
@@ -1430,6 +2286,62 @@
         }
       }
     },
+    "Telegram群组" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telegram Group"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telegramグループ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텔레그램 그룹"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telegram群組"
+          }
+        }
+      }
+    },
+    "Token" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Token"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トークン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "토큰"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Token"
+          }
+        }
+      }
+    },
     "Token无效。" : {
       "localizations" : {
         "en" : {
@@ -1486,7 +2398,35 @@
         }
       }
     },
-    "VNDB服务暂时不可用，请稍后再试。" : {
+    "VNDB公开评分数据无法读取。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The VNDB public rating data couldn’t be read."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDBの公開評価データを読み込めませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDB 공개 평점 데이터를 읽을 수 없습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取VNDB公開評分資料。"
+          }
+        }
+      }
+    },
+    "VNDB服务暂时不可用，请稍后重试。" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1503,41 +2443,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VNDB 서비스를 일시적으로 사용할 수 없습니다. 잠시 후 다시 시도해 주세요."
+            "value" : "현재 VNDB를 사용할 수 없습니다. 나중에 다시 시도하십시오."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "VNDB服務暫時無法使用，請稍後再試。"
-          }
-        }
-      }
-    },
-    "VNDB用户评分较高" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Highly Rated by VNDB Users"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "VNDBユーザーから高評価"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "VNDB 사용자 평점이 높음"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "VNDB使用者評分較高"
           }
         }
       }
@@ -1794,6 +2706,118 @@
         }
       }
     },
+    "上一个" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前へ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이전"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上一個"
+          }
+        }
+      }
+    },
+    "下载" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다운로드"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載"
+          }
+        }
+      }
+    },
+    "下载的文件中没有可用的简介翻译目录。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The downloaded file doesn’t contain a usable description translation directory."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロードしたファイルに使用可能な紹介文の翻訳ディレクトリがありません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다운로드한 파일에 사용할 수 있는 소개 번역 디렉토리가 없습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載的檔案中沒有可用的簡介翻譯目錄。"
+          }
+        }
+      }
+    },
+    "下载翻译文件" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download Translation File"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "翻訳ファイルをダウンロード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "번역 파일 다운로드"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載翻譯檔案"
+          }
+        }
+      }
+    },
     "不低于%@" : {
       "localizations" : {
         "en" : {
@@ -1818,6 +2842,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不低於%@"
+          }
+        }
+      }
+    },
+    "不感兴趣" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not interested"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "興味なし"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "관심 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不感興趣"
           }
         }
       }
@@ -1878,142 +2930,86 @@
         }
       }
     },
-    "与你资料库中的作品使用相同语言：%@" : {
+    "与你偏好的游戏篇幅相近：%lld" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uses the same language as titles in your library: %@"
+            "value" : "Similar to your preferred visual novel length: %lld"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ライブラリ内の作品と同じ言語：%@"
+            "value" : "好みの作品の長さに近い：%lld"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "보관함의 작품과 같은 언어 사용: %@"
+            "value" : "선호하는 비주얼 노벨 분량과 비슷함: %lld"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "與資料庫中的作品使用相同語言：%@"
+            "value" : "與你偏好的遊戲篇幅相近：%lld"
           }
         }
       }
     },
-    "与你资料库中的作品共享“%@”标签" : {
+    "与你偏好相近的VNDB用户也喜欢这部作品。" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Shares the “%@” tag with titles in your library"
+            "value" : "VNDB users with preferences similar to yours also like this title."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ライブラリ内の作品と「%@」タグが共通"
+            "value" : "あなたと好みが似ているVNDBユーザーもこの作品を気に入っています。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "보관함의 작품과 ‘%@’ 태그 공유"
+            "value" : "취향이 비슷한 VNDB 사용자들도 이 작품을 좋아합니다."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "與資料庫中的作品共用「%@」標籤"
+            "value" : "與你偏好相近的VNDB使用者也喜歡這部作品。"
           }
         }
       }
     },
-    "与你资料库中的作品支持相同平台：%@" : {
+    "与你资料库中的作品来自同一开发与发行商“%@”" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Supports the same platform as titles in your library: %@"
+            "value" : "From the same developer or publisher as titles in your library: “%@”"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ライブラリ内の作品と同じプラットフォームに対応：%@"
+            "value" : "ライブラリ内の作品と同じ開発・販売元「%@」"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "보관함의 작품과 같은 플랫폼 지원: %@"
+            "value" : "보관함의 작품과 같은 개발사 또는 배급사 ‘%@’"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "與資料庫中的作品支援相同平台：%@"
-          }
-        }
-      }
-    },
-    "与你资料库中的作品来自同一制作方“%@”" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "From the same developer as titles in your library: “%@”"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ライブラリ内の作品と同じ制作者「%@」"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "보관함의 작품과 같은 제작사 ‘%@’"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "與資料庫中的作品來自相同製作方「%@」"
-          }
-        }
-      }
-    },
-    "与你资料库中的作品篇幅相近：%lld" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Similar length to titles in your library: %lld"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ライブラリ内の作品と同程度の長さ：%lld"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "보관함의 작품과 비슷한 분량: %lld"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "與資料庫中的作品篇幅相近：%lld"
+            "value" : "與資料庫中的作品來自相同開發與發行商「%@」"
           }
         }
       }
@@ -2186,6 +3182,34 @@
         }
       }
     },
+    "为VNDB添加你的语言。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bring Your Language to VNDB."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDBにあなたの言語を。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDB에 나의 언어를 더하세요."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "為VNDB加入你的語言。"
+          }
+        }
+      }
+    },
     "为你推荐" : {
       "localizations" : {
         "en" : {
@@ -2197,7 +3221,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたへのおすすめ"
+            "value" : "あなたにおすすめ"
           }
         },
         "ko" : {
@@ -2210,6 +3234,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "為你推薦"
+          }
+        }
+      }
+    },
+    "主要依据游戏类型推荐：本作符合你偏好的%@类型，角色资料不足。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommended mainly for its game themes: it matches your preferred %@ themes, but character data is insufficient."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主にゲームジャンルに基づくおすすめです。好みの%@ジャンルに合いますが、キャラクターデータが不足しています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "게임 유형을 중심으로 추천했습니다. 선호하는 %@ 유형과 일치하지만 캐릭터 정보가 부족합니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主要依据游戏类型推荐：本作符合你偏好的%@类型，角色资料不足。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主要依據遊戲類型推薦：本作符合你偏好的%@類型，但角色資料不足。"
           }
         }
       }
@@ -2328,6 +3386,34 @@
         }
       }
     },
+    "人人都有，却只属于你。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everyone has one, but this one is yours."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "誰もが持っている。でも、これはあなただけのもの。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두에게 있지만, 오직 나만의 것."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人人都有，卻只屬於你。"
+          }
+        }
+      }
+    },
     "介质" : {
       "localizations" : {
         "en" : {
@@ -2352,6 +3438,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "媒介"
+          }
+        }
+      }
+    },
+    "从最近查看中删除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove from Recents"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近表示した項目から削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최근 본 항목에서 제거"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從最近查看中移除"
           }
         }
       }
@@ -2412,6 +3526,34 @@
         }
       }
     },
+    "任一条件" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Any Condition"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いずれかの条件"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조건 중 하나"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任一條件"
+          }
+        }
+      }
+    },
     "会社" : {
       "localizations" : {
         "en" : {
@@ -2440,6 +3582,34 @@
         }
       }
     },
+    "会社、个人与同人制作组" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Companies, Individuals, and Dōjin Circles"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "会社、個人、同人サークル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "회사, 개인 및 동인 제작팀"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "公司、個人與同人製作組"
+          }
+        }
+      }
+    },
     "会社、制作人员、角色与声优的显示语言。" : {
       "localizations" : {
         "en" : {
@@ -2464,6 +3634,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "公司、製作人員、角色與聲優的顯示語言。"
+          }
+        }
+      }
+    },
+    "体重" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weight"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "体重"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "체중"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "體重"
+          }
+        }
+      }
+    },
+    "你可以在Discord服务器中查看App的最新更新与未来计划，也可以提出建议与错误报告。我们等待你的到来。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See the latest app updates and future plans on our Discord server, and share suggestions or bug reports. We look forward to seeing you there."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discordサーバーでは、Appの最新アップデートや今後の予定を確認できるほか、ご提案やバグ報告もお寄せいただけます。ご参加をお待ちしています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord 서버에서 앱의 최신 업데이트와 향후 계획을 확인하고 제안이나 오류 보고를 남길 수 있습니다. 여러분을 기다리고 있습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你可以在Discord伺服器中查看App的最新更新與未來計畫，也可以提出建議與錯誤回報。我們等待你的到來。"
           }
         }
       }
@@ -2498,6 +3724,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "需要使用Token登入VNDB。如果還沒有Token，可以在「My Profile > Applications」中建立。請為此Token開放所有權限，否則將無法操作資料庫。"
+          }
+        }
+      }
+    },
+    "你需要使用Token登录VNDB。如果还没有Token，可以在“My Profile > Applications”中创建。请为此Token开放所有权限，否则将无法操作资料库。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You need a token to sign in to VNDB. If you don’t have one, create one in My Profile > Applications. Grant all permissions to the token; otherwise, you won’t be able to manage your library."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDBにログインするにはトークンが必要です。トークンをお持ちでない場合は、「My Profile>Applications」で作成できます。このトークンにすべての権限を付与してください。付与しない場合、ライブラリを操作できません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDB에 로그인하려면 토큰이 필요합니다. 토큰이 없다면 ‘My Profile > Applications’에서 생성할 수 있습니다. 이 토큰에 모든 권한을 허용하지 않으면 보관함을 관리할 수 없습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你需要使用Token登入VNDB。如果還沒有Token，可以在「My Profile>Applications」中建立。請授予此Token所有權限，否則將無法管理資料庫。"
           }
         }
       }
@@ -2558,6 +3812,34 @@
         }
       }
     },
+    "使用当前用户设置" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Current User Settings"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在のユーザ設定を使用"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현재 사용자 설정 사용"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用目前使用者設定"
+          }
+        }
+      }
+    },
     "俄语" : {
       "localizations" : {
         "en" : {
@@ -2610,6 +3892,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保加利亞文"
+          }
+        }
+      }
+    },
+    "保存" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存"
           }
         }
       }
@@ -2726,6 +4036,90 @@
         }
       }
     },
+    "保护状态" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protection Status"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護状態"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보호 상태"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護狀態"
+          }
+        }
+      }
+    },
+    "偏好分析进度" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preference Analysis Progress"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嗜好分析の進行状況"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취향 분석 진행률"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "偏好分析進度"
+          }
+        }
+      }
+    },
+    "偏好翻译模式" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferred Translation Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "優先する翻訳モード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선호하는 번역 모드"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "偏好翻譯模式"
+          }
+        }
+      }
+    },
     "偏好语言" : {
       "localizations" : {
         "en" : {
@@ -2750,6 +4144,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "偏好語言"
+          }
+        }
+      }
+    },
+    "储存空间" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Storage"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ストレージ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장 공간"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存空間"
           }
         }
       }
@@ -2890,6 +4312,90 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部"
+          }
+        }
+      }
+    },
+    "共享" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공유"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分享"
+          }
+        }
+      }
+    },
+    "共享年龄范围" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shared Age Range"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有された年齢範囲"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공유된 연령 범위"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分享的年齡範圍"
+          }
+        }
+      }
+    },
+    "关于" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "概要"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소개"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於"
           }
         }
       }
@@ -3064,6 +4570,34 @@
         }
       }
     },
+    "内容、色情与技术" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content, Sexual, and Technical Tags"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツ、性的コンテンツ、技術"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "콘텐츠, 선정적 콘텐츠 및 기술"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "內容、色情內容與技術"
+          }
+        }
+      }
+    },
     "内容与安全限制" : {
       "localizations" : {
         "en" : {
@@ -3088,6 +4622,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "內容與安全限制"
+          }
+        }
+      }
+    },
+    "内容已隐藏" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content Hidden"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツは非表示です"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "콘텐츠가 숨겨졌습니다"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "內容已隱藏"
+          }
+        }
+      }
+    },
+    "再次点按以解除模糊" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click Again to Unblur"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もう一度クリックしてぼかしを解除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다시 클릭하여 흐림 효과 해제"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再次點按以取消模糊"
           }
         }
       }
@@ -3344,6 +4934,34 @@
         }
       }
     },
+    "准备游戏中…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparing Visual Novels…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ビジュアルノベルを準備中…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비주얼 노벨 준비 중…"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在準備遊戲…"
+          }
+        }
+      }
+    },
     "准备随机游戏中…" : {
       "localizations" : {
         "en" : {
@@ -3428,6 +5046,62 @@
         }
       }
     },
+    "分析你的偏好并提供“为你推荐”功能。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyze your preferences to provide Recommended for You."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みを分析して「あなたにおすすめ」を提供します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취향을 분석해 ‘맞춤 추천’ 기능을 제공합니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分析你的偏好並提供「為你推薦」功能。"
+          }
+        }
+      }
+    },
+    "分析偏好" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyze Preferences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みを分析"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취향 분석"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分析偏好"
+          }
+        }
+      }
+    },
     "分类" : {
       "localizations" : {
         "en" : {
@@ -3452,6 +5126,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "分類"
+          }
+        }
+      }
+    },
+    "分类·加载中…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Categories · Loading…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カテゴリ・読み込み中…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카테고리·불러오는 중…"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分類·載入中…"
           }
         }
       }
@@ -3624,6 +5326,34 @@
         }
       }
     },
+    "删除简介翻译文件" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Description Translation File"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紹介文の翻訳ファイルを削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소개 번역 파일 삭제"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除簡介翻譯檔案"
+          }
+        }
+      }
+    },
     "删除缓存" : {
       "localizations" : {
         "en" : {
@@ -3652,7 +5382,37 @@
         }
       }
     },
+    "删除缓存后，VNDB图片与数据会在需要时重新下载。删除简介翻译文件后，可在“语言与翻译”中重新下载。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After clearing the cache, VNDB images and data will be downloaded again when needed. After deleting the description translation file, you can download it again in “Language & Translation.”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャッシュを削除すると、VNDBの画像とデータは必要なときに再ダウンロードされます。紹介文の翻訳ファイルを削除した場合は、「言語と翻訳」から再ダウンロードできます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "캐시를 지우면 VNDB 이미지와 데이터가 필요할 때 다시 다운로드됩니다. 소개 번역 파일을 삭제한 후에는 ‘언어 및 번역’에서 다시 다운로드할 수 있습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除快取後，VNDB圖片與資料會在需要時重新下載。刪除簡介翻譯檔案後，可在「語言與翻譯」中重新下載。"
+          }
+        }
+      }
+    },
     "别名" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -3736,34 +5496,6 @@
         }
       }
     },
-    "制作方" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Developer"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "制作者"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "제작사"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "製作方"
-          }
-        }
-      }
-    },
     "刷新失败" : {
       "localizations" : {
         "en" : {
@@ -3817,6 +5549,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "前作"
+          }
+        }
+      }
+    },
+    "剧本、美术、音乐与其他职位" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scenario, Art, Music, and Other Roles"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シナリオ、原画、音楽、その他の役職"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "각본, 미술, 음악 및 기타 직무"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "劇本、美術、音樂與其他職位"
           }
         }
       }
@@ -3957,6 +5717,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "剩餘%lld個特徵"
+          }
+        }
+      }
+    },
+    "加入Discord服务器" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join Discord Server"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discordサーバーに参加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord 서버 참여"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加入Discord伺服器"
+          }
+        }
+      }
+    },
+    "加入我们的Discord服务器。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join our Discord server."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discordサーバーに参加しよう。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord 서버에 참여하세요."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加入我們的Discord伺服器。"
           }
         }
       }
@@ -4185,6 +6001,40 @@
         }
       }
     },
+    "包含你偏好的角色特征“%@”" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Includes the character trait you prefer, “%@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みのキャラクター特性「%@」を含みます"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선호하는 캐릭터 특성 “%@” 포함"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包含你偏好的角色特征“%@”"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包含你偏好的角色特徵「%@」"
+          }
+        }
+      }
+    },
     "匈牙利语" : {
       "localizations" : {
         "en" : {
@@ -4209,6 +6059,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "匈牙利文"
+          }
+        }
+      }
+    },
+    "匹配" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Match"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一致"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일치"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合"
           }
         }
       }
@@ -4495,6 +6373,7 @@
       }
     },
     "发行与开发" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -4518,6 +6397,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "發行與開發"
+          }
+        }
+      }
+    },
+    "发行与开发商" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publishers and Developers"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パブリッシャーと開発元"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "퍼블리셔 및 개발사"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發行與開發商"
           }
         }
       }
@@ -4718,6 +6625,40 @@
         }
       }
     },
+    "可能符合你的偏好" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Likely match for your preferences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みに合う可能性があります"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취향에 맞을 가능성이 있습니다"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可能符合你的偏好"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可能符合你的偏好"
+          }
+        }
+      }
+    },
     "同人" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4803,6 +6744,62 @@
         }
       }
     },
+    "向右滚动" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll Right"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右にスクロール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오른쪽으로 스크롤"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向右捲動"
+          }
+        }
+      }
+    },
+    "向左滚动" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll Left"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左にスクロール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "왼쪽으로 스크롤"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向左捲動"
+          }
+        }
+      }
+    },
     "否" : {
       "localizations" : {
         "en" : {
@@ -4827,6 +6824,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "否"
+          }
+        }
+      }
+    },
+    "哔哩哔哩频道" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bilibili Channel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bilibiliチャンネル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bilibili 채널"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bilibili頻道"
           }
         }
       }
@@ -4943,6 +6968,34 @@
         }
       }
     },
+    "在“已游玩”或“抛弃”前模糊可能导致剧透的内容。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blur potentially spoiler content until it is marked Played or Dropped."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「プレイ済み」または「放棄」にするまで、ネタバレになる可能性のあるコンテンツをぼかします。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "‘플레이 완료’ 또는 ‘포기’로 표시할 때까지 스포일러가 될 수 있는 콘텐츠를 흐리게 표시합니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在標示為「已遊玩」或「放棄」前，模糊可能造成劇透的內容。"
+          }
+        }
+      }
+    },
     "在“已游玩”或“抛弃”前模糊可能导致剧透的内容。剧透标签的模糊等级越低，对剧透标签的容忍度越高。" : {
       "localizations" : {
         "en" : {
@@ -4971,30 +7024,86 @@
         }
       }
     },
-    "在搜索页面显示最近查看的20个视觉小说或角色。" : {
+    "在不同设备间同步你的偏好数据。" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Show the 20 most recently viewed visual novels or characters on the Search page."
+            "value" : "Sync your preference data across devices."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "検索ページに最近表示したビジュアルノベルまたはキャラクター20件を表示します。"
+            "value" : "複数のデバイス間で好みのデータを同期します。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "검색 페이지에 최근 본 비주얼 노벨 또는 캐릭터 20개를 표시합니다."
+            "value" : "여러 기기에서 취향 데이터를 동기화합니다."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在搜尋頁面顯示最近查看的視覺小說或角色，最多20筆。"
+            "value" : "在不同裝置間同步你的偏好資料。"
+          }
+        }
+      }
+    },
+    "在手机上管理你的VNDB资料库" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Your VNDB Library on Your Phone"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマートフォンでVNDBライブラリを管理"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "휴대폰에서 VNDB 라이브러리 관리"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在手機上管理你的VNDB資料庫"
+          }
+        }
+      }
+    },
+    "在搜索页面中提供最近查看的20个视觉小说或角色。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provide the 20 most recently viewed visual novels or characters from the Search page."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索ページから、最近表示したビジュアルノベルまたはキャラクター20件を確認できます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "검색 페이지에서 최근 본 비주얼 노벨 또는 캐릭터 20개를 확인할 수 있습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可從搜尋頁面查看最近瀏覽的視覺小說或角色，最多20筆。"
           }
         }
       }
@@ -5192,6 +7301,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "外觀"
+          }
+        }
+      }
+    },
+    "外观特征" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearance Traits"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外見の特徴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "외모 특성"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外觀特徵"
+          }
+        }
+      }
+    },
+    "外貌、性格、身份与经历" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearance, Personality, Identity, and Background"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外見、性格、身分、経歴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "외모, 성격, 정체성 및 이력"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外貌、性格、身分與經歷"
           }
         }
       }
@@ -5420,6 +7585,90 @@
         }
       }
     },
+    "家长控制" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parental Controls"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアレンタルコントロール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 보호 기능"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長控制"
+          }
+        }
+      }
+    },
+    "家长控制或年龄范围控制将覆盖当前用户设置。按照家长要求或共享年龄范围隐藏不安全的内容，并限制不受信任的外部链接。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parental Controls or age-range controls override the current user settings. Unsafe content is hidden based on parental requirements or the shared age range, and untrusted external links are restricted."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアレンタルコントロールまたは年齢範囲による制限は、現在のユーザ設定より優先されます。保護者の要件または共有された年齢範囲に従って安全でないコンテンツを非表示にし、信頼されていない外部リンクを制限します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 보호 기능 또는 연령 범위 제어가 현재 사용자 설정보다 우선합니다. 보호자 요구 사항이나 공유된 연령 범위에 따라 안전하지 않은 콘텐츠를 숨기고 신뢰할 수 없는 외부 링크를 제한합니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長控制或年齡範圍控制會覆寫目前的使用者設定。系統會按照家長要求或分享的年齡範圍隱藏不安全的內容，並限制不受信任的外部連結。"
+          }
+        }
+      }
+    },
+    "家长控制生效期间不能打开此站点。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This website can’t be opened while Parental Controls are active."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアレンタルコントロールが有効な間は、このWebサイトを開けません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 보호 기능이 활성화된 동안에는 이 웹 사이트를 열 수 없습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家長控制生效期間無法開啟此網站。"
+          }
+        }
+      }
+    },
     "宽松" : {
       "localizations" : {
         "en" : {
@@ -5444,6 +7693,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "寬鬆"
+          }
+        }
+      }
+    },
+    "寻找更多游戏中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding More Visual Novels"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ほかのビジュアルノベルを検索中"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "더 많은 비주얼 노벨을 찾는 중"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在尋找更多遊戲"
           }
         }
       }
@@ -5476,6 +7753,34 @@
         }
       }
     },
+    "尚未保存的状态、评分、版本或日期将会丢失。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unsaved changes to the status, rating, version, or dates will be lost."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ステータス、評価、バージョン、日付の未保存の変更内容は失われます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장하지 않은 상태, 평점, 버전 또는 날짜 변경 사항이 유실됩니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未儲存的狀態、評分、版本或日期將會遺失。"
+          }
+        }
+      }
+    },
     "尚未保存的状态、评分或日期将会丢失。" : {
       "localizations" : {
         "en" : {
@@ -5500,6 +7805,68 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "尚未儲存的狀態、評分或日期將會遺失。"
+          }
+        }
+      }
+    },
+    "尚未请求" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Requested"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未リクエスト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "요청하지 않음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未要求"
+          }
+        }
+      }
+    },
+    "尝试拓展你的兴趣" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expanding your interests"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "興味の幅を広げるおすすめ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "관심사를 넓히는 추천"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尝试拓展你的兴趣"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嘗試拓展你的興趣"
           }
         }
       }
@@ -5560,30 +7927,58 @@
         }
       }
     },
-    "已支持PaperVN的开发。" : {
+    "已授权" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You’ve supported the development of PaperVN."
+            "value" : "Authorized"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PaperVNの開発を支援しました。"
+            "value" : "承認済み"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PaperVN 개발을 지원했습니다."
+            "value" : "승인됨"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你已支持PaperVN的開發。"
+            "value" : "已授權"
+          }
+        }
+      }
+    },
+    "已授权并允许数据访问" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Authorized with Data Access"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "データアクセスを許可して承認済み"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "데이터 접근을 허용하여 승인됨"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已授權並允許資料存取"
           }
         }
       }
@@ -5612,6 +8007,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已遊玩"
+          }
+        }
+      }
+    },
+    "已确认" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認済み"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인됨"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已確認"
           }
         }
       }
@@ -5668,6 +8091,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已選取"
+          }
+        }
+      }
+    },
+    "已通过系统确认" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verified by System"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システムによる確認済み"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템에서 확인됨"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已由系統確認"
           }
         }
       }
@@ -5897,6 +8348,90 @@
         }
       }
     },
+    "年龄" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年齢"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "나이"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年齡"
+          }
+        }
+      }
+    },
+    "年龄范围未共享" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age Range Not Shared"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年齢範囲は共有されていません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연령 범위가 공유되지 않음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未分享年齡範圍"
+          }
+        }
+      }
+    },
+    "开发与发行商" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developers & Publishers"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開発・販売元"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개발사 및 배급사"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開發與發行商"
+          }
+        }
+      }
+    },
     "开发中" : {
       "localizations" : {
         "en" : {
@@ -5926,6 +8461,7 @@
       }
     },
     "开发作品" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5981,6 +8517,34 @@
         }
       }
     },
+    "开发或发行作品" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developed or Published Titles"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開発・発売作品"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개발 또는 퍼블리싱 작품"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開發或發行作品"
+          }
+        }
+      }
+    },
     "开发状态" : {
       "localizations" : {
         "en" : {
@@ -6009,6 +8573,34 @@
         }
       }
     },
+    "开始使用PaperVN" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Started with PaperVN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNをはじめる"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN 시작하기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始使用PaperVN"
+          }
+        }
+      }
+    },
     "开始日期" : {
       "localizations" : {
         "en" : {
@@ -6020,7 +8612,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "開始日"
+            "value" : "開始日時"
           }
         },
         "ko" : {
@@ -6061,6 +8653,90 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "開始取得"
+          }
+        }
+      }
+    },
+    "开源项目" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Sourse Projects"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オープンソースプロジェクト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오픈 소스 프로젝트"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開源專案"
+          }
+        }
+      }
+    },
+    "开源项目（离线）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Source Project (Offline)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オープンソースプロジェクト（オフライン）"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오픈 소스 프로젝트(오프라인)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開源專案（離線）"
+          }
+        }
+      }
+    },
+    "开源项目（获取）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Source Project (Fetch)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オープンソースプロジェクト（取得）"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오픈 소스 프로젝트(가져오기)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開源專案（取得）"
           }
         }
       }
@@ -6149,6 +8825,62 @@
         }
       }
     },
+    "性别" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gender"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性別"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "성별"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性別"
+          }
+        }
+      }
+    },
+    "性格特征" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personality Traits"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性格の特徴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "성격 특성"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性格特徵"
+          }
+        }
+      }
+    },
     "恢复中…" : {
       "localizations" : {
         "en" : {
@@ -6233,6 +8965,34 @@
         }
       }
     },
+    "感觉如何？" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How does it feel?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "どんな感じ？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "어떤 느낌인가요?"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感覺如何？"
+          }
+        }
+      }
+    },
     "感谢你的支持" : {
       "localizations" : {
         "en" : {
@@ -6261,30 +9021,58 @@
         }
       }
     },
-    "我是一名即将进入大学的高中毕业生，当前我的主力机是一台3000 CNY的丐版Mac mini，你的购买将支持我在2028年换一台更好的Mac。购买Premium将不会解锁任何额外功能，但我不胜感激。" : {
+    "成年人" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "I’m a recent high school graduate about to start college. My main computer is a base-model Mac mini that cost CNY 3,000. Your purchase will help me upgrade to a better Mac in 2028. Purchasing Premium won’t unlock any additional features, but I’d be truly grateful for your support."
+            "value" : "Adult"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "私は大学進学を控えた高校卒業生です。現在のメインマシンは、3,000人民元で購入した最小構成のMac miniです。ご購入いただくことで、2028年により良いMacへ買い替えるための支えになります。Premiumを購入しても追加機能は提供されませんが、ご支援いただければ大変ありがたく思います。"
+            "value" : "成人"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "저는 대학 입학을 앞둔 고등학교 졸업생입니다. 현재 주력 컴퓨터는 3,000위안에 구입한 기본형 Mac mini입니다. 구입해 주시면 2028년에 더 좋은 Mac으로 바꾸는 데 큰 도움이 됩니다. Premium을 구입해도 추가 기능이 제공되지는 않지만, 지원해 주신다면 진심으로 감사하겠습니다."
+            "value" : "성인"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "我是即將上大學的高中畢業生，目前的主力電腦是一台售價3000 CNY的入門款Mac mini。你的購買將支持我在2028年換一台更好的Mac。購買Premium不會解鎖任何額外功能，但我由衷感謝你的支持。"
+            "value" : "成年人"
+          }
+        }
+      }
+    },
+    "我是一名即将进入大学的高中毕业生，当前我的主力机是一台3000CNY的丐版Mac mini。你的购买将支持我在2028年换一台更好的Mac，并继续认真维护PaperVN。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I’m a recent high school graduate about to start college. My main computer is a base-model Mac mini that cost CNY 3,000. Your purchase will help me upgrade to a better Mac in 2028 and continue maintaining PaperVN with care."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私は大学進学を控えた高校卒業生です。現在のメインマシンは、3,000人民元で購入した最小構成のMac miniです。ご購入いただくことで、2028年により良いMacへ買い替え、PaperVNを丁寧にメンテナンスし続けるための支えになります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저는 대학 입학을 앞둔 고등학교 졸업생입니다. 현재 주력 컴퓨터는 3,000위안에 구입한 기본형 Mac mini입니다. 구입해 주시면 2028년에 더 좋은 Mac으로 교체하고 PaperVN을 계속 정성껏 관리하는 데 큰 도움이 됩니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我是即將上大學的高中畢業生，目前的主力電腦是一台售價3000CNY的入門款Mac mini。你的購買將支持我在2028年換一台更好的Mac，並繼續認真維護PaperVN。"
           }
         }
       }
@@ -6457,6 +9245,34 @@
         }
       }
     },
+    "所有条件" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Conditions"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての条件"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 조건"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有條件"
+          }
+        }
+      }
+    },
     "技术" : {
       "localizations" : {
         "en" : {
@@ -6541,6 +9357,62 @@
         }
       }
     },
+    "按“偏好语言 > 回退语言 > VNDB默认标题”的顺序显示。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titles are displayed in order of Preferred Language > Fallback Language > VNDB Default Title."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「優先言語>フォールバック言語>VNDBのデフォルトタイトル」の順に表示します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "‘선호 언어 > 대체 언어 > VNDB 기본 제목’ 순서로 표시합니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按照「偏好語言>備用語言>VNDB預設標題」的順序顯示。"
+          }
+        }
+      }
+    },
+    "按作品语言浏览" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Browse by Language"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作品の言語別に見る"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작품 언어별로 둘러보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依作品語言瀏覽"
+          }
+        }
+      }
+    },
     "按最近更改" : {
       "localizations" : {
         "en" : {
@@ -6597,6 +9469,62 @@
         }
       }
     },
+    "按年份查看作品" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Browse Titles by Year"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年別に作品を見る"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연도별로 작품 보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依年份查看作品"
+          }
+        }
+      }
+    },
+    "按收录时间与生日浏览" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Browse by Date Added and Birthday"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登録日と誕生日別に見る"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "등록일 및 생일별로 둘러보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依收錄時間與生日瀏覽"
+          }
+        }
+      }
+    },
     "按标题" : {
       "localizations" : {
         "en" : {
@@ -6621,6 +9549,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "依標題"
+          }
+        }
+      }
+    },
+    "按游玩设备浏览" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Browse by Platform"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プラットフォーム別に見る"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "플랫폼별로 둘러보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依平台瀏覽"
+          }
+        }
+      }
+    },
+    "按照共享年龄范围控制" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controlled by Shared Age Range"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有された年齢範囲に従う"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공유된 연령 범위에 따라 제어"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按照分享的年齡範圍控制"
           }
         }
       }
@@ -6709,6 +9693,34 @@
         }
       }
     },
+    "授权" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Authorize"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "承認"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "승인"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授權"
+          }
+        }
+      }
+    },
     "排序" : {
       "localizations" : {
         "en" : {
@@ -6733,6 +9745,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "排序"
+          }
+        }
+      }
+    },
+    "排序依据" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort By"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "並べ替え基準"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정렬 기준"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排序依據"
+          }
+        }
+      }
+    },
+    "排序方向" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort Direction"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "並べ替え方向"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정렬 방향"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排序方向"
           }
         }
       }
@@ -6765,30 +9833,70 @@
         }
       }
     },
-    "探索" : {
+    "探索推荐：作品质量较可靠，但个性化证据有限。" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explore"
+            "value" : "Exploratory pick: the title has reliable quality signals, but limited personalization evidence."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "見つける"
+            "value" : "探索的なおすすめです。作品品質の信頼性は高いものの、個人向けの根拠は限られています。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "탐색"
+            "value" : "탐색 추천입니다. 작품 품질 신호는 신뢰할 만하지만 개인화 근거는 제한적입니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "探索推荐：作品质量较可靠，但个性化证据有限。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "探索"
+            "value" : "探索推薦：作品品質較可靠，但個人化依據有限。"
+          }
+        }
+      }
+    },
+    "推荐资料仍在准备中，请稍后重试。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommendation data is still being prepared. Try again later."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おすすめ用データを準備しています。しばらくしてからもう一度お試しください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추천 데이터를 준비하고 있습니다. 나중에 다시 시도해 주세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐资料仍在准备中，请稍后重试。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推薦資料仍在準備中，請稍後再試。"
           }
         }
       }
@@ -7017,6 +10125,34 @@
         }
       }
     },
+    "搜索范围" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search Scope"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索範囲"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "검색 범위"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜尋範圍"
+          }
+        }
+      }
+    },
     "搜索角色" : {
       "localizations" : {
         "en" : {
@@ -7073,6 +10209,62 @@
         }
       }
     },
+    "操作失败" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Operation Couldn’t Be Completed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "操作を完了できませんでした"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작업을 완료할 수 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法完成操作"
+          }
+        }
+      }
+    },
+    "支持" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポート"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지원"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援"
+          }
+        }
+      }
+    },
     "支持PaperVN" : {
       "localizations" : {
         "en" : {
@@ -7097,6 +10289,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "支持PaperVN"
+          }
+        }
+      }
+    },
+    "支持你常用的平台：%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supports your preferred platform: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "よく使うプラットフォームに対応：%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자주 사용하는 플랫폼 지원: %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援你常用的平台：%@"
+          }
+        }
+      }
+    },
+    "支持你常用的语言：%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supports your preferred language: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "よく使う言語に対応：%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자주 사용하는 언어 지원: %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援你常用的語言：%@"
           }
         }
       }
@@ -7213,6 +10461,40 @@
         }
       }
     },
+    "新发现" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新着"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새로운 발견"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新发现"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新發現"
+          }
+        }
+      }
+    },
     "无" : {
       "localizations" : {
         "en" : {
@@ -7297,6 +10579,118 @@
         }
       }
     },
+    "无法下载VNDB公开评分数据。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t download VNDB public rating data."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDBの公開評価データをダウンロードできませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDB 공개 평점 데이터를 다운로드할 수 없습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法下載VNDB公開評分資料。"
+          }
+        }
+      }
+    },
+    "无法下载简介翻译" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t Download Description Translations"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紹介文の翻訳をダウンロードできませんでした"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소개 번역을 다운로드할 수 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法下載簡介翻譯"
+          }
+        }
+      }
+    },
+    "无法创建简介翻译下载地址。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t create the description translation download URL."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紹介文の翻訳ファイルのダウンロードURLを作成できませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소개 번역 다운로드 URL을 생성할 수 없습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法建立簡介翻譯下載網址。"
+          }
+        }
+      }
+    },
+    "无法删除文件" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t Delete File"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルを削除できませんでした"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일을 삭제할 수 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法刪除檔案"
+          }
+        }
+      }
+    },
     "无法加载发行版本：%@" : {
       "localizations" : {
         "en" : {
@@ -7321,6 +10715,90 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無法載入發行版本：%@"
+          }
+        }
+      }
+    },
+    "无法完成儿童账户授权。请确认当前Apple账户属于家庭中的儿童成员后重试。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t complete child account authorization. Make sure the current Apple Account belongs to a child in your Family Sharing group, then try again."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "子ども用アカウントの承認を完了できませんでした。現在のApple Accountがファミリー共有グループ内のお子様のものであることを確認してから、もう一度お試しください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 계정 승인을 완료할 수 없습니다. 현재 Apple 계정이 가족 공유 그룹의 자녀 계정인지 확인한 후 다시 시도하십시오."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法完成兒童帳號授權。請確認目前的Apple帳號屬於「家人共享」群組中的兒童成員，然後再試一次。"
+          }
+        }
+      }
+    },
+    "无法更新家长控制" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t Update Parental Controls"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアレンタルコントロールを更新できませんでした"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자녀 보호 기능을 업데이트할 수 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法更新家長控制"
+          }
+        }
+      }
+    },
+    "无法获取共享的年龄范围。请稍后重试，或检查系统中的年龄范围共享设置。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t retrieve the shared age range. Try again later, or check the system’s age-range sharing settings."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有された年齢範囲を取得できませんでした。しばらくしてからもう一度試すか、システムの年齢範囲の共有設定を確認してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공유된 연령 범위를 가져올 수 없습니다. 나중에 다시 시도하거나 시스템의 연령 범위 공유 설정을 확인하십시오."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法取得分享的年齡範圍。請稍後再試，或檢查系統中的年齡範圍分享設定。"
           }
         }
       }
@@ -7377,6 +10855,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無法載入"
+          }
+        }
+      }
+    },
+    "无法载入游戏" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to Load Games"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゲームを読み込めません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "게임을 불러올 수 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法載入遊戲"
           }
         }
       }
@@ -7605,6 +11111,62 @@
         }
       }
     },
+    "显示特征原文" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Original Traits"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特徴の原文を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "특성 원문 표시"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示特徵原文"
+          }
+        }
+      }
+    },
+    "显示特征译文" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Translated Traits"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特徴の訳文を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "특성 번역문 표시"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示特徵譯文"
+          }
+        }
+      }
+    },
     "显示简介原文" : {
       "localizations" : {
         "en" : {
@@ -7689,6 +11251,34 @@
         }
       }
     },
+    "暂不支持macOS" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Yet Supported on macOS"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOSではまだサポートされていません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS에서는 아직 지원되지 않음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS暫不支援"
+          }
+        }
+      }
+    },
     "暂无内容" : {
       "localizations" : {
         "en" : {
@@ -7713,6 +11303,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "暫無內容"
+          }
+        }
+      }
+    },
+    "暂无最近查看" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Recently Viewed Items"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近表示した項目はありません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최근 본 항목 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫無最近查看"
+          }
+        }
+      }
+    },
+    "暂无发行版本" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Releases"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リリースはありません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "출시 버전 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫無發行版本"
           }
         }
       }
@@ -7909,6 +11555,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "暫無相關作品"
+          }
+        }
+      }
+    },
+    "暂无相关角色" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Related Characters"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "関連キャラクターはありません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "관련 캐릭터 없음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫無相關角色"
           }
         }
       }
@@ -8221,6 +11895,34 @@
         }
       }
     },
+    "更多操作" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More Actions"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その他の操作"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가 작업"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多操作"
+          }
+        }
+      }
+    },
     "更改状态" : {
       "localizations" : {
         "en" : {
@@ -8245,6 +11947,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更改狀態"
+          }
+        }
+      }
+    },
+    "有点意思" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Looks interesting"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "少し気になる"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조금 흥미로움"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有點意思"
+          }
+        }
+      }
+    },
+    "服务条款" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms of Service"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用規約"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서비스 이용약관"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服務條款"
           }
         }
       }
@@ -8301,6 +12059,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未指定版本"
+          }
+        }
+      }
+    },
+    "未授权" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Authorized"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未承認"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "승인되지 않음"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未授權"
+          }
+        }
+      }
+    },
+    "未满13岁" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Under 13"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13歳未満"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13세 미만"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未滿13歲"
           }
         }
       }
@@ -8501,30 +12315,30 @@
         }
       }
     },
-    "松手查看所有作品" : {
+    "来自“%@”" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Release to View All Titles"
+            "value" : "From “%@”"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "指を離してすべての作品を表示"
+            "value" : "「%@」より"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "손을 떼어 모든 작품 보기"
+            "value" : "“%@”에서"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "放開以查看所有作品"
+            "value" : "來自「%@」"
           }
         }
       }
@@ -8614,6 +12428,7 @@
       }
     },
     "查看所有参与作品" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -8637,6 +12452,118 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "查看所有參與作品"
+          }
+        }
+      }
+    },
+    "查看所有标签" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View All Tags"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのタグを表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 태그 보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看所有標籤"
+          }
+        }
+      }
+    },
+    "查看所有特征" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View All Traits"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての特徴を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 특성 보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看所有特徵"
+          }
+        }
+      }
+    },
+    "查看游戏详细信息" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View Visual Novel Details"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ビジュアルノベルの詳細を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비주얼 노벨 상세 정보 보기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看遊戲詳細資訊"
+          }
+        }
+      }
+    },
+    "查看过的视觉小说和角色会显示在这里。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visual novels and characters you view will appear here."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示したビジュアルノベルとキャラクターがここに表示されます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열어 본 비주얼 노벨과 캐릭터가 여기에 표시됩니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看過的視覺小說與角色會顯示在這裡。"
           }
         }
       }
@@ -8698,6 +12625,7 @@
       }
     },
     "标签分类" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -8781,6 +12709,90 @@
         }
       }
     },
+    "校准偏好" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calibrate Preferences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みを調整"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취향 조정"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "校準偏好"
+          }
+        }
+      }
+    },
+    "检查更新" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check for Updates"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデートを確認"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "업데이트 확인"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "檢查更新"
+          }
+        }
+      }
+    },
+    "模糊" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blur"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ぼかす"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "흐리게 표시"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模糊"
+          }
+        }
+      }
+    },
     "模糊严重剧透" : {
       "localizations" : {
         "en" : {
@@ -8805,34 +12817,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "模糊嚴重劇透"
-          }
-        }
-      }
-    },
-    "模糊内容" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blur Content"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "コンテンツをぼかす"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "콘텐츠 흐리게 표시"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "模糊內容"
           }
         }
       }
@@ -8978,6 +12962,62 @@
         }
       }
     },
+    "欢迎使用PaperVN！" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to PaperVN!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNへようこそ！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN에 오신 것을 환영합니다!"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歡迎使用PaperVN！"
+          }
+        }
+      }
+    },
+    "正在下载…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downloading…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロード中…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다운로드 중…"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在下載…"
+          }
+        }
+      }
+    },
     "正在获取标签目录…" : {
       "localizations" : {
         "en" : {
@@ -9006,6 +13046,96 @@
         }
       }
     },
+    "正在解压…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extracting…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "展開中…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "압축 해제 중…"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在解壓縮…"
+          }
+        }
+      }
+    },
+    "正在载入分类…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading categories…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カテゴリを読み込み中…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카테고리 불러오는 중…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在载入分类…"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在載入分類…"
+          }
+        }
+      }
+    },
+    "正在连接GitHub…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connecting to GitHub…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHubに接続中…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub에 연결 중…"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在連接GitHub…"
+          }
+        }
+      }
+    },
     "此筛选条件中的设置互相冲突。" : {
       "localizations" : {
         "en" : {
@@ -9030,34 +13160,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此篩選條件中的設定互相衝突。"
-          }
-        }
-      }
-    },
-    "此语言仅用于设备端自动翻译视觉小说简介，以及没有对应界面语言人工译文的标签。标签与角色特征的人工译文始终跟随App界面语言。" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This language is used only for on-device automatic translation of visual novel descriptions and tags without a human translation in the app’s display language. Human translations of tags and character traits always follow the app’s display language."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "この言語は、ビジュアルノベルのあらすじと、Appの表示言語に対応する人手による翻訳がないタグのオンデバイス自動翻訳にのみ使用されます。タグとキャラクターの特徴の人手による翻訳には、常にAppの表示言語が使用されます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이 언어는 비주얼 노벨 소개와 앱 표시 언어에 맞는 수동 번역이 없는 태그의 기기 내 자동 번역에만 사용됩니다. 태그와 캐릭터 특성의 수동 번역은 항상 앱 표시 언어를 따릅니다."
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此語言僅用於裝置端自動翻譯視覺小說簡介，以及尚無對應顯示語言人工譯文的標籤。標籤與角色特徵的人工譯文一律跟隨App顯示語言。"
           }
         }
       }
@@ -9142,6 +13244,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "沒有符合目前篩選條件的視覺小說。"
+          }
+        }
+      }
+    },
+    "法律" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legal"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "法律"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "법률"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "法律"
           }
         }
       }
@@ -9287,6 +13417,7 @@
       }
     },
     "浏览具有此特征的角色" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -9314,6 +13445,34 @@
         }
       }
     },
+    "添加到资料库" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to Library"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリに追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "라이브러리에 추가"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加入資料庫"
+          }
+        }
+      }
+    },
     "添加日期" : {
       "localizations" : {
         "en" : {
@@ -9325,7 +13484,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "追加日"
+            "value" : "追加日時"
           }
         },
         "ko" : {
@@ -9426,34 +13585,6 @@
         }
       }
     },
-    "清除" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Clear"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "消去"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "지우기"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "清除"
-          }
-        }
-      }
-    },
     "清除所有条件" : {
       "localizations" : {
         "en" : {
@@ -9478,6 +13609,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "清除所有條件"
+          }
+        }
+      }
+    },
+    "清除所有记录" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear All History"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての履歴を消去"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 기록 지우기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除所有記錄"
           }
         }
       }
@@ -9846,6 +14005,34 @@
         }
       }
     },
+    "版本" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バージョン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "버전"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本"
+          }
+        }
+      }
+    },
     "版本、结构与制作属性" : {
       "localizations" : {
         "en" : {
@@ -9987,6 +14174,7 @@
       }
     },
     "特征分组" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -10015,6 +14203,7 @@
       }
     },
     "特征分组·加载中…" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -10122,6 +14311,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "瑞典文"
+          }
+        }
+      }
+    },
+    "生日" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Birthday"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "誕生日"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "생일"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生日"
           }
         }
       }
@@ -10262,6 +14479,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用者登入"
+          }
+        }
+      }
+    },
+    "由家长或监护人确认" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmed by Parent or Guardian"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護者による確認"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부모 또는 보호자 확인"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "由家長或監護人確認"
+          }
+        }
+      }
+    },
+    "由本人确认" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmed by You"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本人による確認"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "본인 확인"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "由本人確認"
           }
         }
       }
@@ -10521,6 +14794,7 @@
       }
     },
     "相关作品" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -10549,6 +14823,7 @@
       }
     },
     "相关内容" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -10605,6 +14880,7 @@
       }
     },
     "相关角色" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -10829,6 +15105,34 @@
         }
       }
     },
+    "社区" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Community"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コミュニティ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커뮤니티"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "社群"
+          }
+        }
+      }
+    },
     "视觉小说" : {
       "localizations" : {
         "en" : {
@@ -10885,6 +15189,62 @@
         }
       }
     },
+    "移除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제거"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除"
+          }
+        }
+      }
+    },
+    "立即记录并进入下一个游戏" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Record Now and Continue to the Next Visual Novel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すぐに記録して次のビジュアルノベルへ進む"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금 기록하고 다음 비주얼 노벨로 이동"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "立即記錄並進入下一個遊戲"
+          }
+        }
+      }
+    },
     "立陶宛语" : {
       "localizations" : {
         "en" : {
@@ -10913,6 +15273,164 @@
         }
       }
     },
+    "符合你偏好的%@类型，并包含具有%@等偏好特征的主要角色。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches your preferred %@ themes and includes a main character with traits you prefer, such as %@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みの%@ジャンルに合い、%@などの好みの特性を持つ主要キャラクターが登場します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선호하는 %@ 유형과 일치하며, %@ 등의 선호 특성을 가진 주요 캐릭터가 등장합니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合你偏好的%@类型，并包含具有%@等偏好特征的主要角色。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合你偏好的%@類型，並包含具有%@等偏好特徵的主要角色。"
+          }
+        }
+      }
+    },
+    "符合你偏好的%@类型；主要角色“%@”具有%@等你经常偏好的特征。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches your preferred %@ themes; the main character “%@” has traits you often prefer, including %@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みの%@ジャンルに合い、主要キャラクター「%@」には%@など、よく好む特性があります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선호하는 %@ 유형과 일치하며, 주요 캐릭터 “%@”에게 자주 선호하는 %@ 등의 특성이 있습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合你偏好的%@类型；主要角色“%@”具有%@等你经常偏好的特征。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合你偏好的%@類型；主要角色「%@」具有%@等你經常偏好的特徵。"
+          }
+        }
+      }
+    },
+    "符合你偏好的游戏标签“%@”" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches your preferred game tag “%@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みのゲームタグ「%@」に一致します"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선호하는 게임 태그 “%@”와 일치합니다"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合你偏好的游戏标签“%@”"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合你偏好的遊戲標籤「%@」"
+          }
+        }
+      }
+    },
+    "符合条件的内容已按安全限制隐藏。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matching content has been hidden by the safety restrictions."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "条件に該当するコンテンツは安全制限により非表示になっています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조건에 해당하는 콘텐츠는 안전 제한에 따라 숨겨졌습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合條件的內容已依安全限制隱藏。"
+          }
+        }
+      }
+    },
+    "符合条件的结果已按安全限制隐藏。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matching results have been hidden by the safety restrictions."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "条件に該当する結果は安全制限により非表示になっています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "조건에 해당하는 결과는 안전 제한에 따라 숨겨졌습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符合條件的結果已依安全限制隱藏。"
+          }
+        }
+      }
+    },
     "筛选" : {
       "localizations" : {
         "en" : {
@@ -10937,6 +15455,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "篩選"
+          }
+        }
+      }
+    },
+    "筛选（%lld）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filters (%lld)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フィルタ（%lld）"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "필터(%lld)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "篩選（%lld）"
           }
         }
       }
@@ -11279,6 +15825,34 @@
         }
       }
     },
+    "系统返回了无法识别的年龄范围结果。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The system returned an unrecognized age-range result."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システムから認識できない年齢範囲の結果が返されました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템에서 인식할 수 없는 연령 범위 결과를 반환했습니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統傳回了無法識別的年齡範圍結果。"
+          }
+        }
+      }
+    },
     "约2～10小时" : {
       "localizations" : {
         "en" : {
@@ -11374,7 +15948,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "終了日"
+            "value" : "終了日時"
           }
         },
         "ko" : {
@@ -11387,6 +15961,90 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "結束日期"
+          }
+        }
+      }
+    },
+    "结果" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Results"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結果"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "결과"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結果"
+          }
+        }
+      }
+    },
+    "继续" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續"
+          }
+        }
+      }
+    },
+    "继续编辑" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue Editing"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "編集を続ける"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속 편집"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續編輯"
           }
         }
       }
@@ -11616,6 +16274,118 @@
         }
       }
     },
+    "罩杯" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cup Size"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カップ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "컵 사이즈"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "罩杯"
+          }
+        }
+      }
+    },
+    "罩杯%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cup size %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@カップ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@컵"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "罩杯%@"
+          }
+        }
+      }
+    },
+    "翻译PaperVN" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Translate PaperVN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVNを翻訳"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PaperVN 번역"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "翻譯PaperVN"
+          }
+        }
+      }
+    },
+    "翻译VNDB视觉小说与角色简介" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Translate VNDB Visual Novel and Character Descriptions"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDBのビジュアルノベル・キャラクター紹介を翻訳"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VNDB 비주얼 노벨 및 캐릭터 소개 번역"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "翻譯VNDB視覺小說與角色簡介"
+          }
+        }
+      }
+    },
     "翻译失败" : {
       "localizations" : {
         "en" : {
@@ -11756,58 +16526,338 @@
         }
       }
     },
-    "自动填充开始日期" : {
+    "联系方式" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Automatically Fill Start Date"
+            "value" : "Contact Us"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "開始日を自動入力"
+            "value" : "お問い合わせ"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "시작일 자동 입력"
+            "value" : "문의하기"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "自動填寫開始日期"
+            "value" : "聯絡方式"
           }
         }
       }
     },
-    "自动填充结束日期" : {
+    "胸围" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Automatically Fill End Date"
+            "value" : "Bust"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "終了日を自動入力"
+            "value" : "バスト"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "종료일 자동 입력"
+            "value" : "가슴둘레"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "自動填寫結束日期"
+            "value" : "胸圍"
+          }
+        }
+      }
+    },
+    "胸围%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bust %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バスト%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가슴둘레 %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胸圍%@"
+          }
+        }
+      }
+    },
+    "胸围%lldcm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bust %lld cm"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バスト%lldcm"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가슴둘레 %lldcm"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胸圍%lld公分"
+          }
+        }
+      }
+    },
+    "腰围" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waist"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウエスト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "허리둘레"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "腰圍"
+          }
+        }
+      }
+    },
+    "腰围%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waist %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウエスト%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "허리둘레 %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "腰圍%@"
+          }
+        }
+      }
+    },
+    "腰围%lldcm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waist %lld cm"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウエスト%lldcm"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "허리둘레 %lldcm"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "腰圍%lld公分"
+          }
+        }
+      }
+    },
+    "臀围" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヒップ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엉덩이둘레"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "臀圍"
+          }
+        }
+      }
+    },
+    "臀围%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヒップ%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엉덩이둘레 %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "臀圍%@"
+          }
+        }
+      }
+    },
+    "臀围%lldcm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hips %lld cm"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヒップ%lldcm"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엉덩이둘레 %lldcm"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "臀圍%lld公分"
+          }
+        }
+      }
+    },
+    "自动填充“开始日期”" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatically Fill “Start Date”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「開始日時」を自動入力"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "‘시작일’ 자동 입력"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動填寫「開始日期」"
+          }
+        }
+      }
+    },
+    "自动填充“结束日期”" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatically Fill “End Date”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「終了日時」を自動入力"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "‘종료일’ 자동 입력"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動填寫「結束日期」"
           }
         }
       }
@@ -12232,6 +17282,34 @@
         }
       }
     },
+    "角色特征" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Character Traits"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャラクターの特徴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "캐릭터 특성"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "角色特徵"
+          }
+        }
+      }
+    },
     "计划游玩" : {
       "localizations" : {
         "en" : {
@@ -12256,6 +17334,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "計劃遊玩"
+          }
+        }
+      }
+    },
+    "设备端模型" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On-Device Model"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オンデバイスモデル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "온디바이스 모델"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裝置端模型"
           }
         }
       }
@@ -12400,6 +17506,34 @@
         }
       }
     },
+    "语言、平台与版本属性" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language, Platform, and Version Attributes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "言語、プラットフォーム、バージョン属性"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "언어, 플랫폼 및 버전 속성"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "語言、平台與版本屬性"
+          }
+        }
+      }
+    },
     "语言与翻译" : {
       "localizations" : {
         "en" : {
@@ -12512,7 +17646,7 @@
         }
       }
     },
-    "请求过于频繁，请稍后再试。" : {
+    "请求过于频繁，请稍后重试。" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -12523,19 +17657,47 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "リクエストが多すぎます。しばらくしてからもう一度お試しください。"
+            "value" : "リクエスト回数が多すぎます。しばらくしてからもう一度お試しください。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "요청이 너무 많습니다. 잠시 후 다시 시도해 주세요."
+            "value" : "요청이 너무 많습니다. 나중에 다시 시도하십시오."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "要求過於頻繁，請稍後再試。"
+          }
+        }
+      }
+    },
+    "请稍后重试。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please try again later."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "しばらくしてからもう一度お試しください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잠시 후 다시 시도해 주세요."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請稍後再試。"
           }
         }
       }
@@ -12737,6 +17899,7 @@
       }
     },
     "资料" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -12848,6 +18011,34 @@
         }
       }
     },
+    "超短篇、短篇、中篇、长篇与超长篇" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Very Short, Short, Medium, Long, and Very Long"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "超短編、短編、中編、長編、超長編"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "초단편, 단편, 중편, 장편 및 초장편"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "超短篇、短篇、中篇、長篇與超長篇"
+          }
+        }
+      }
+    },
     "超长篇" : {
       "localizations" : {
         "en" : {
@@ -12904,6 +18095,34 @@
         }
       }
     },
+    "身高" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Height"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身長"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "키"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身高"
+          }
+        }
+      }
+    },
     "轻触两次以解除模糊" : {
       "localizations" : {
         "en" : {
@@ -12928,6 +18147,62 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "點兩下以取消模糊"
+          }
+        }
+      }
+    },
+    "轻轻地来。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coming Swiftly."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "軽やかに。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가볍게."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輕輕地來。"
+          }
+        }
+      }
+    },
+    "过滤不安全的封面、角色、截屏与标签。阈值越高越宽松。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter unsafe covers, characters, screenshots, and tags. Higher thresholds are less restrictive."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全でない表紙、キャラクター、スクリーンショット、タグを除外します。しきい値が高いほど制限が緩くなります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안전하지 않은 표지, 캐릭터, 스크린샷 및 태그를 필터링합니다. 임곗값이 높을수록 제한이 완화됩니다."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "過濾不安全的封面、角色、截圖與標籤。閾值越高，限制越寬鬆。"
           }
         }
       }
@@ -13044,6 +18319,40 @@
         }
       }
     },
+    "连接GitHub时发生网络错误（%d）：%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A network error occurred while connecting to GitHub (%1$d): %2$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHubへの接続中にネットワークエラー（%1$d）が発生しました：%2$@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub에 연결하는 중 네트워크 오류(%1$d)가 발생했습니다: %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连接GitHub时发生网络错误（%1$d）：%2$@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連接GitHub時發生網路錯誤（%1$d）：%2$@"
+          }
+        }
+      }
+    },
     "退出登录" : {
       "localizations" : {
         "en" : {
@@ -13100,6 +18409,34 @@
         }
       }
     },
+    "适龄体验" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age-Appropriate Experience"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年齢に適した体験"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연령에 적합한 환경"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "適齡體驗"
+          }
+        }
+      }
+    },
     "配角" : {
       "localizations" : {
         "en" : {
@@ -13128,6 +18465,34 @@
         }
       }
     },
+    "重置" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リセット"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "재설정"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置"
+          }
+        }
+      }
+    },
     "重试" : {
       "localizations" : {
         "en" : {
@@ -13152,6 +18517,34 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "再試一次"
+          }
+        }
+      }
+    },
+    "链接已受限" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link Restricted"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リンクは制限されています"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "링크가 제한됨"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連結已受限"
           }
         }
       }
@@ -13264,6 +18657,118 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "降冪"
+          }
+        }
+      }
+    },
+    "限制模式" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restriction Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "制限モード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제한 모드"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "限制模式"
+          }
+        }
+      }
+    },
+    "限制范围" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restriction Scope"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "制限対象"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제한 범위"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "限制範圍"
+          }
+        }
+      }
+    },
+    "隐私政策" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシーポリシー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보 처리방침"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱私權政策"
+          }
+        }
+      }
+    },
+    "隐藏" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "숨기기"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱藏"
           }
         }
       }
@@ -13488,6 +18993,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高分作品"
+          }
+        }
+      }
+    },
+    "高度符合你的偏好" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strong match for your preferences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好みに非常によく合います"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취향과 매우 잘 맞습니다"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高度符合你的偏好"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高度符合你的偏好"
           }
         }
       }
