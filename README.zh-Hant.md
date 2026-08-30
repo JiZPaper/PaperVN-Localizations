@@ -30,7 +30,7 @@
   <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="250" alt="PaperVN 資料庫頁面"></a>
 </p>
 
-<p align="center"><sub>探索 · 搜尋 · 資料庫</sub></p>
+<p align="center"><sub>Today · 搜尋 · 資料庫</sub></p>
 
 ## 深入每部作品背後的故事
 
