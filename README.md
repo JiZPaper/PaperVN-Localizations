@@ -30,7 +30,7 @@
   <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="250" alt="PaperVN Library screen"></a>
 </p>
 
-<p align="center"><sub>Explore · Search · Library</sub></p>
+<p align="center"><sub>Today · Search · Library</sub></p>
 
 ## See the story behind every title
 
