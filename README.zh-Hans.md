@@ -30,7 +30,7 @@
   <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="250" alt="PaperVN 资料库页面"></a>
 </p>
 
-<p align="center"><sub>探索 · 搜索 · 资料库</sub></p>
+<p align="center"><sub>Today · 搜索 · 资料库</sub></p>
 
 ## 看见每部作品背后的故事
 
