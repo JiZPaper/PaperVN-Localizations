@@ -30,7 +30,7 @@
   <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="250" alt="PaperVNのライブラリ画面"></a>
 </p>
 
-<p align="center"><sub>探索 · 検索 · ライブラリ</sub></p>
+<p align="center"><sub>Today · 検索 · ライブラリ</sub></p>
 
 ## 作品の魅力を、細部まで
 
