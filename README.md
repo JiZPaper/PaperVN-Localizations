@@ -6,97 +6,54 @@
   <a href="./README.ko.md">한국어</a>
 </p>
 
-<p align="center">
-  <img src="./docs/images/app-icon.png" width="112" alt="PaperVN app icon">
-</p>
-
-<h1 align="center">PaperVN</h1>
-
-<p align="center">
-  <strong>Discover stories. Understand every detail. Keep your VNDB library in sync.</strong>
-</p>
+<h1 align="center">
+  <img src="./docs/images/app-icon.png" width="96" alt="PaperVN app icon" align="middle">
+  PaperVN
+</h1>
 
 <p align="center">
-  A native VNDB client for iPhone and iPad, built for discovering visual novels and keeping track of every journey.
+  <strong>Track &amp; Discover Visual Novel</strong>
 </p>
+
+PaperVN is a visual novel companion built for Apple devices. It helps you discover visual novels, learn more about titles and characters, and record every step of your play journey. Browse, explore, and search VNDB's public data without signing in. After signing in to your VNDB account, you can also read and edit your personal library.
+
+## Preview
 
 <p align="center">
-  <sub>iPhone &amp; iPad · iOS / iPadOS 26+ · SwiftUI · 5 interface languages</sub>
+  <a href="./docs/images/screenshots/explore.png"><img src="./docs/images/screenshots/explore.png" width="23%" alt="PaperVN Today screen"></a>
+  <a href="./docs/images/screenshots/search.png"><img src="./docs/images/screenshots/search.png" width="23%" alt="PaperVN Search screen"></a>
+  <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="23%" alt="PaperVN Library screen"></a>
+  <a href="./docs/images/screenshots/visual-novel-details.png"><img src="./docs/images/screenshots/visual-novel-details.png" width="23%" alt="PaperVN Visual Novel Details screen"></a>
 </p>
 
-<p align="center">
-  <a href="./docs/images/screenshots/explore.png"><img src="./docs/images/screenshots/explore.png" width="250" alt="PaperVN Explore screen"></a>
-  <a href="./docs/images/screenshots/search.png"><img src="./docs/images/screenshots/search.png" width="250" alt="PaperVN Search screen"></a>
-  <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="250" alt="PaperVN Library screen"></a>
-</p>
+<p align="center"><sub>Today · Search · Library · Visual Novel Details</sub></p>
 
-<p align="center"><sub>Today · Search · Library</sub></p>
+## Description
 
-## See the story behind every title
+### Coming Swiftly
 
-Move naturally from a quick overview to the details that matter: synopsis, tags, screenshots, releases, producers, staff, related titles, and external links. Character pages bring traits, voice actors, and appearances together in one place.
+Throughout its development, PaperVN has followed a “beauty first” principle. It is built entirely with SwiftUI, and every detail has been carefully considered.
 
-<p align="center">
-  <a href="./docs/images/screenshots/visual-novel-details.png"><img src="./docs/images/screenshots/visual-novel-details.png" width="360" alt="Visual novel details in PaperVN"></a>
-  <a href="./docs/images/screenshots/character-details.png"><img src="./docs/images/screenshots/character-details.png" width="360" alt="Character details in PaperVN"></a>
-</p>
+### Today
 
-<p align="center"><sub>Visual novel details · Character details</sub></p>
+Today presents a daily selection of visual novels worth your attention and recent events. PaperVN can also analyze your library and use machine learning to generate a “For You” list.
 
-## Browse on your terms
+### Library
 
-Search visual novels and characters, then combine language, platform, length, rating, and development-status filters. Browse by tags, traits, releases, staff, producers, and more when you want to explore without a query in mind.
+After signing in to your VNDB account, you can edit your library and update play status, played release, rating, and start or finish date. Preferences such as language, appearance, and content safety are customizable as well.
 
-<p align="center">
-  <a href="./docs/images/screenshots/tags.png"><img src="./docs/images/screenshots/tags.png" width="360" alt="Browse VNDB tags in PaperVN"></a>
-</p>
+### Visual Novel / Character Details
 
-<p align="center"><sub>Tags and category browsing</sub></p>
+PaperVN includes localizations for more than 6,000 VNDB visual novel tags and character traits, with support for Simplified Chinese, Traditional Chinese, English, Japanese, and Korean. We are also working to localize the descriptions of more than 200,000 visual novels and characters on VNDB.
 
-## Keep your library current
+### Search
 
-Connect your VNDB account to organize your library and update status, played release, rating, and start or finish dates. Language, appearance, search, and content-safety preferences stay close at hand.
+Search visual novels, characters, releases, staff, developers, and publishers, then narrow the results with matching filter criteria.
 
-<p align="center">
-  <a href="./docs/images/screenshots/edit-library-entry.png"><img src="./docs/images/screenshots/edit-library-entry.png" width="360" alt="Edit a VNDB library entry in PaperVN"></a>
-  <a href="./docs/images/screenshots/settings.png"><img src="./docs/images/screenshots/settings.png" width="360" alt="PaperVN user and settings screen"></a>
-</p>
+### System Requirements
 
-<p align="center"><sub>Edit a library entry · Make PaperVN yours</sub></p>
+Requires an iPhone with iOS 26 or later, or an iPad with iPadOS 26 or later.
 
-## Highlights
+### License
 
-- Personalized discovery based on your VNDB library, calculated locally on device.
-- Compound search filters with include, exclude, any, and all matching modes.
-- Controls for sexual or violent imagery, plus optional blurring for spoilers, ratings, and descriptions.
-- Simplified Chinese, Traditional Chinese, English, Japanese, and Korean interfaces, with title-language preferences and on-device synopsis translation.
-- Screenshot preview, zoom, sharing, and saving to Photos.
-
-## Requirements
-
-- iOS 26.0+ or iPadOS 26.0+
-- An internet connection
-
-## Connect your VNDB account
-
-Browsing, discovery, and public-data search work without signing in. Reading and editing your library requires your own VNDB Token:
-
-1. Open VNDB's [My Profile → Applications](https://vndb.org/u/tokens) page.
-2. Create a Token with the `listread` and `listwrite` permissions.
-3. Paste it into the User screen in PaperVN.
-
-PaperVN stores the Token in the iOS Keychain. Never share it; revoke and replace it from VNDB immediately if it is exposed.
-
-## Built with
-
-- Swift, SwiftUI, Combine, and Swift Concurrency
-- URLSession, Codable, and the [VNDB Kana API](https://api.vndb.org/kana)
-- Keychain, Translation, StoreKit 2, Photos, and SafariServices
-- Swift Testing and XCTest
-- No third-party Swift package dependencies
-
-## Data source and disclaimer
-
-PaperVN retrieves visual-novel metadata and images through the [VNDB Kana API](https://api.vndb.org/kana). The data is subject to the [VNDB Data License](https://vndb.org/d17) and the API usage terms.
-
-PaperVN is an unofficial third-party project. It is not affiliated with or endorsed by [VNDB](https://vndb.org/).
+Unless otherwise noted, data provided by the PaperVN developer is free content released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.

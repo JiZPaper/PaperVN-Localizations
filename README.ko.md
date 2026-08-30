@@ -6,97 +6,54 @@
   <strong>한국어</strong>
 </p>
 
-<p align="center">
-  <img src="./docs/images/app-icon.png" width="112" alt="PaperVN 앱 아이콘">
-</p>
-
-<h1 align="center">PaperVN</h1>
-
-<p align="center">
-  <strong>새로운 이야기를 발견하고, 세세한 정보까지 살펴보며, VNDB 보관함을 늘 최신 상태로 유지하세요.</strong>
-</p>
+<h1 align="center">
+  <img src="./docs/images/app-icon.png" width="96" alt="PaperVN 앱 아이콘" align="middle">
+  PaperVN
+</h1>
 
 <p align="center">
-  비주얼 노벨을 발견하고 플레이 여정을 꼼꼼히 기록할 수 있도록 만든 iPhone 및 iPad용 네이티브 VNDB 클라이언트입니다.
+  <strong>비주얼 노벨 기록과 발견</strong>
 </p>
+
+PaperVN은 Apple 기기를 위해 만든 비주얼 노벨 도우미입니다. 비주얼 노벨을 발견하고 작품과 캐릭터를 깊이 이해하며, 모든 플레이 여정을 기록할 수 있습니다. 로그인하지 않아도 VNDB의 공개 데이터를 둘러보고 탐색하고 검색할 수 있습니다. VNDB 계정에 로그인하면 개인 보관함을 읽고 편집할 수도 있습니다.
+
+## 미리 보기
 
 <p align="center">
-  <sub>iPhone &amp; iPad · iOS / iPadOS 26+ · SwiftUI · 5개 언어 지원</sub>
+  <a href="./docs/images/screenshots/explore.png"><img src="./docs/images/screenshots/explore.png" width="23%" alt="PaperVN Today 화면"></a>
+  <a href="./docs/images/screenshots/search.png"><img src="./docs/images/screenshots/search.png" width="23%" alt="PaperVN 검색 화면"></a>
+  <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="23%" alt="PaperVN 보관함 화면"></a>
+  <a href="./docs/images/screenshots/visual-novel-details.png"><img src="./docs/images/screenshots/visual-novel-details.png" width="23%" alt="PaperVN 비주얼 노벨 상세 화면"></a>
 </p>
 
-<p align="center">
-  <a href="./docs/images/screenshots/explore.png"><img src="./docs/images/screenshots/explore.png" width="250" alt="PaperVN 탐색 화면"></a>
-  <a href="./docs/images/screenshots/search.png"><img src="./docs/images/screenshots/search.png" width="250" alt="PaperVN 검색 화면"></a>
-  <a href="./docs/images/screenshots/library.png"><img src="./docs/images/screenshots/library.png" width="250" alt="PaperVN 보관함 화면"></a>
-</p>
+<p align="center"><sub>Today · 검색 · 보관함 · 비주얼 노벨 상세</sub></p>
 
-<p align="center"><sub>탐색 · 검색 · 보관함</sub></p>
+## 설명
 
-## 작품에 담긴 이야기를 더 깊이 살펴보세요
+### 가볍게
 
-한눈에 보는 개요에서 중요한 세부 정보까지 자연스럽게 이어집니다. 줄거리, 태그, 스크린샷, 출시 정보, 제작사, 제작진, 관련 작품, 외부 링크를 확인할 수 있으며, 캐릭터 페이지에서는 특성, 성우, 등장 작품을 한곳에 모아 보여 줍니다.
+PaperVN은 제작 과정에서 항상 “아름다움 우선”이라는 원칙을 지켜 왔습니다. 전체 앱을 SwiftUI로 만들었으며, 모든 세부 요소를 세심하게 고려했습니다.
 
-<p align="center">
-  <a href="./docs/images/screenshots/visual-novel-details.png"><img src="./docs/images/screenshots/visual-novel-details.png" width="360" alt="PaperVN의 비주얼 노벨 상세 정보"></a>
-  <a href="./docs/images/screenshots/character-details.png"><img src="./docs/images/screenshots/character-details.png" width="360" alt="PaperVN의 캐릭터 상세 정보"></a>
-</p>
+### Today
 
-<p align="center"><sub>비주얼 노벨 상세 정보 · 캐릭터 상세 정보</sub></p>
+Today는 매일 주목할 만한 비주얼 노벨과 최근 이벤트를 소개합니다. 또한 PaperVN은 보관함 내용을 분석하고 머신 러닝을 사용해 “추천” 목록을 생성할 수 있습니다.
 
-## 원하는 방식으로 탐색하세요
+### 보관함
 
-비주얼 노벨과 캐릭터를 검색하고 언어, 플랫폼, 분량, 평점, 개발 상태 조건을 조합해 결과를 좁힐 수 있습니다. 검색어 없이 둘러보고 싶을 때는 태그, 특성, 출시 정보, 제작진, 제작사 등 다양한 분류로 탐색할 수 있습니다.
+VNDB 계정에 로그인하면 보관함을 편집하고 플레이 상태, 플레이한 출시 버전, 평점, 시작일과 종료일을 업데이트할 수 있습니다. 언어, 화면 표시, 콘텐츠 안전 등의 환경설정도 자유롭게 변경할 수 있습니다.
 
-<p align="center">
-  <a href="./docs/images/screenshots/tags.png"><img src="./docs/images/screenshots/tags.png" width="360" alt="PaperVN에서 VNDB 태그 탐색"></a>
-</p>
+### 비주얼 노벨／캐릭터 상세
 
-<p align="center"><sub>태그 및 카테고리 탐색</sub></p>
+PaperVN은 VNDB의 비주얼 노벨 태그와 캐릭터 특성 6,000개 이상을 현지화했으며, 중국어 간체, 중국어 번체, 영어, 일본어, 한국어를 지원합니다. 또한 VNDB에 등록된 비주얼 노벨과 캐릭터 소개 20만 개 이상의 현지화도 진행하고 있습니다.
 
-## 보관함을 최신 상태로 유지하세요
+### 검색
 
-VNDB 계정을 연결해 보관함을 정리하고 상태, 플레이한 버전, 평점, 시작일과 완료일을 업데이트할 수 있습니다. 언어, 화면 표시, 검색 및 콘텐츠 안전 설정도 언제든 손쉽게 조정할 수 있습니다.
+비주얼 노벨, 캐릭터, 출시 버전, 제작진, 개발사, 배급사를 검색하고 일치 조건 필터로 결과를 좁힐 수 있습니다.
 
-<p align="center">
-  <a href="./docs/images/screenshots/edit-library-entry.png"><img src="./docs/images/screenshots/edit-library-entry.png" width="360" alt="PaperVN에서 VNDB 보관함 항목 편집"></a>
-  <a href="./docs/images/screenshots/settings.png"><img src="./docs/images/screenshots/settings.png" width="360" alt="PaperVN 사용자 및 설정 화면"></a>
-</p>
+### 시스템 요구 사항
 
-<p align="center"><sub>보관함 항목 편집 · 나에게 맞게 PaperVN 설정</sub></p>
+iOS 26 이상이 설치된 iPhone 또는 iPadOS 26 이상이 설치된 iPad가 필요합니다.
 
-## 주요 기능
+### 라이선스
 
-- VNDB 보관함을 바탕으로 기기에서 직접 계산하는 개인 맞춤형 작품 추천.
-- 포함/제외 및 하나라도/모두 일치 조건을 조합할 수 있는 복합 검색 필터.
-- 선정적이거나 폭력적인 이미지의 표시를 제어하고, 스포일러·평점·설명을 선택적으로 흐리게 표시.
-- 중국어(간체), 중국어(번체), 영어, 일본어, 한국어 UI와 제목 언어 설정 및 기기 내 줄거리 번역.
-- 스크린샷 미리보기, 확대/축소, 공유 및 사진 앱 저장.
-
-## 요구 사항
-
-- iOS 26.0 이상 또는 iPadOS 26.0 이상
-- 인터넷 연결
-
-## VNDB 계정 연결하기
-
-둘러보기와 작품 탐색, 공개 데이터 검색은 로그인 없이 이용할 수 있습니다. 보관함을 읽고 편집하려면 본인의 VNDB 토큰이 필요합니다.
-
-1. VNDB의 [My Profile → Applications](https://vndb.org/u/tokens) 페이지를 엽니다.
-2. `listread`와 `listwrite` 권한이 있는 토큰을 생성합니다.
-3. PaperVN의 사용자 화면에 토큰을 붙여넣습니다.
-
-PaperVN은 토큰을 iOS 키체인(Keychain)에 저장합니다. 토큰을 다른 사람과 공유하지 마세요. 유출된 경우 VNDB에서 즉시 철회한 뒤 새로 발급받으세요.
-
-## 사용 기술
-
-- Swift, SwiftUI, Combine 및 Swift Concurrency
-- URLSession, Codable 및 [VNDB Kana API](https://api.vndb.org/kana)
-- Keychain, Translation, StoreKit 2, Photos 및 SafariServices
-- Swift Testing 및 XCTest
-- 외부 Swift 패키지 의존성 없음
-
-## 데이터 출처 및 고지
-
-PaperVN은 [VNDB Kana API](https://api.vndb.org/kana)를 통해 비주얼 노벨의 메타데이터와 이미지를 가져옵니다. 해당 데이터에는 [VNDB Data License](https://vndb.org/d17)와 API 이용 약관이 적용됩니다.
-
-PaperVN은 비공식 제3자 프로젝트로, [VNDB](https://vndb.org/)와 제휴 관계가 없으며 VNDB가 공식적으로 보증하거나 승인한 프로젝트가 아닙니다.
+별도 표기가 없는 한 PaperVN 개발자가 제공하는 데이터는 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.ko)에 따라 공개된 자유 콘텐츠입니다.
