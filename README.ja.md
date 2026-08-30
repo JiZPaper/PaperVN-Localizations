@@ -6,14 +6,16 @@
   <a href="./README.ko.md">한국어</a>
 </p>
 
-<h1 align="center">
-  <img src="./docs/images/app-icon.png" width="96" alt="PaperVNのアプリアイコン" align="middle">
-  PaperVN
-</h1>
-
-<p align="center">
-  <strong>ビジュアルノベルを記録・発見</strong>
-</p>
+<table>
+  <tr>
+    <td><img src="./docs/images/app-icon.png" width="96" alt="PaperVNのアプリアイコン"></td>
+    <td width="32"></td>
+    <td align="left">
+      <h1>PaperVN</h1>
+      <p><strong>ビジュアルノベルを記録・発見</strong></p>
+    </td>
+  </tr>
+</table>
 
 PaperVNはAppleデバイス向けに設計されたビジュアルノベル支援アプリです。作品との出会い、作品やキャラクターへの理解、プレイ履歴の記録を一つにまとめます。サインインしなくても、VNDBの公開データを閲覧・探索・検索できます。VNDBアカウントにサインインすると、自分のライブラリを読み取り、編集することもできます。
 
@@ -50,10 +52,10 @@ PaperVNでは、VNDBにある6,000件以上のビジュアルノベルタグと�
 
 ビジュアルノベル、キャラクター、リリース、スタッフ、開発元、発売元を検索でき、条件に一致するよう結果を絞り込めます。
 
-### 動作環境
+## 動作環境
 
 iOS 26以降を搭載したiPhone、またはiPadOS 26以降を搭載したiPadが必要です。
 
-### ライセンス
+## ライセンス
 
 特に記載がない限り、PaperVNの開発者が提供するデータは、[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)に基づく自由コンテンツです。

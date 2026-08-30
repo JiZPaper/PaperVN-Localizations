@@ -6,14 +6,16 @@
   <strong>한국어</strong>
 </p>
 
-<h1 align="center">
-  <img src="./docs/images/app-icon.png" width="96" alt="PaperVN 앱 아이콘" align="middle">
-  PaperVN
-</h1>
-
-<p align="center">
-  <strong>비주얼 노벨 기록과 발견</strong>
-</p>
+<table>
+  <tr>
+    <td><img src="./docs/images/app-icon.png" width="96" alt="PaperVN 앱 아이콘"></td>
+    <td width="32"></td>
+    <td align="left">
+      <h1>PaperVN</h1>
+      <p><strong>비주얼 노벨 기록과 발견</strong></p>
+    </td>
+  </tr>
+</table>
 
 PaperVN은 Apple 기기를 위해 만든 비주얼 노벨 도우미입니다. 비주얼 노벨을 발견하고 작품과 캐릭터를 깊이 이해하며, 모든 플레이 여정을 기록할 수 있습니다. 로그인하지 않아도 VNDB의 공개 데이터를 둘러보고 탐색하고 검색할 수 있습니다. VNDB 계정에 로그인하면 개인 보관함을 읽고 편집할 수도 있습니다.
 
@@ -50,10 +52,10 @@ PaperVN은 VNDB의 비주얼 노벨 태그와 캐릭터 특성 6,000개 이상�
 
 비주얼 노벨, 캐릭터, 출시 버전, 제작진, 개발사, 배급사를 검색하고 일치 조건 필터로 결과를 좁힐 수 있습니다.
 
-### 시스템 요구 사항
+## 시스템 요구 사항
 
 iOS 26 이상이 설치된 iPhone 또는 iPadOS 26 이상이 설치된 iPad가 필요합니다.
 
-### 라이선스
+## 라이선스
 
 별도 표기가 없는 한 PaperVN 개발자가 제공하는 데이터는 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.ko)에 따라 공개된 자유 콘텐츠입니다.

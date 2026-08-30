@@ -6,14 +6,16 @@
   <a href="./README.ko.md">한국어</a>
 </p>
 
-<h1 align="center">
-  <img src="./docs/images/app-icon.png" width="96" alt="PaperVN App 圖示" align="middle">
-  PaperVN
-</h1>
-
-<p align="center">
-  <strong>追蹤與探索視覺小說</strong>
-</p>
+<table>
+  <tr>
+    <td><img src="./docs/images/app-icon.png" width="96" alt="PaperVN App 圖示"></td>
+    <td width="32"></td>
+    <td align="left">
+      <h1>PaperVN</h1>
+      <p><strong>追蹤與探索視覺小說</strong></p>
+    </td>
+  </tr>
+</table>
 
 PaperVN 是一款專為 Apple 裝置打造的視覺小說輔助工具，協助你探索視覺小說、深入瞭解作品與角色，並記錄每一段遊玩旅程。無須登入即可瀏覽、探索與搜尋 VNDB 的公開資料。登入 VNDB 帳號後，還可以讀取及編輯個人資料庫。
 
@@ -50,10 +52,10 @@ PaperVN 已為 VNDB 中 6,000 多個視覺小說標籤與角色特徵提供在�
 
 支援搜尋視覺小說、角色、發行版本、製作人員、開發商與發行商，並可使用符合條件的篩選方式進一步縮小結果範圍。
 
-### 系統需求
+## 系統需求
 
 需要執行 iOS 26 或更新版本的 iPhone，或執行 iPadOS 26 或更新版本的 iPad。
 
-### 授權條款
+## 授權條款
 
 除非另有說明，PaperVN 開發者提供的資料均為遵循 [CC0 1.0 通用授權條款](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant)的自由內容。

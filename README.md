@@ -6,14 +6,16 @@
   <a href="./README.ko.md">한국어</a>
 </p>
 
-<h1 align="center">
-  <img src="./docs/images/app-icon.png" width="96" alt="PaperVN app icon" align="middle">
-  PaperVN
-</h1>
-
-<p align="center">
-  <strong>Track &amp; Discover Visual Novel</strong>
-</p>
+<table>
+  <tr>
+    <td><img src="./docs/images/app-icon.png" width="96" alt="PaperVN app icon"></td>
+    <td width="32"></td>
+    <td align="left">
+      <h1>PaperVN</h1>
+      <p><strong>Track &amp; Discover Visual Novel</strong></p>
+    </td>
+  </tr>
+</table>
 
 PaperVN is a visual novel companion built for Apple devices. It helps you discover visual novels, learn more about titles and characters, and record every step of your play journey. Browse, explore, and search VNDB's public data without signing in. After signing in to your VNDB account, you can also read and edit your personal library.
 
@@ -50,10 +52,10 @@ PaperVN includes localizations for more than 6,000 VNDB visual novel tags and ch
 
 Search visual novels, characters, releases, staff, developers, and publishers, then narrow the results with matching filter criteria.
 
-### System Requirements
+## System Requirements
 
 Requires an iPhone with iOS 26 or later, or an iPad with iPadOS 26 or later.
 
-### License
+## License
 
 Unless otherwise noted, data provided by the PaperVN developer is free content released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
