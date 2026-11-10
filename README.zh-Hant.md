@@ -59,3 +59,7 @@ PaperVN 已為 VNDB 中 6,000 多個視覺小說標籤與角色特徵提供在�
 ## 授權條款
 
 除非另有說明，PaperVN 開發者提供的資料均為遵循 [CC0 1.0 通用授權條款](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant)的自由內容。
+
+## Apple用語術語表
+
+PaperVN的介面文字在七種語言中都依照Apple自己的用詞撰寫。新增或修改翻譯前，請先查看[Apple用語術語表](./README.zh-Hans.md#apple用语术语表)。此表以簡體中文撰寫，但表格涵蓋所有語言。

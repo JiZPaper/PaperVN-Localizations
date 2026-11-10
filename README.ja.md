@@ -59,3 +59,7 @@ iOS 26以降を搭載したiPhone、またはiPadOS 26以降を搭載したiPad�
 ## ライセンス
 
 特に記載がない限り、PaperVNの開発者が提供するデータは、[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)に基づく自由コンテンツです。
+
+## Apple用語集
+
+PaperVNのインターフェイスの文言は、7つの言語すべてでApple自身の用語に合わせています。翻訳を追加または変更する前に、[Apple用語集](./README.zh-Hans.md#apple用语术语表)を確認してください。本文は簡体字中国語で書かれていますが、表にはすべての言語が含まれています。

@@ -59,3 +59,7 @@ iOS 26 이상이 설치된 iPhone 또는 iPadOS 26 이상이 설치된 iPad가 �
 ## 라이선스
 
 별도 표기가 없는 한 PaperVN 개발자가 제공하는 데이터는 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.ko)에 따라 공개된 자유 콘텐츠입니다.
+
+## Apple 용어집
+
+PaperVN의 인터페이스 문구는 7개 언어 모두 Apple의 용어를 따릅니다. 번역을 추가하거나 수정하기 전에 [Apple 용어집](./README.zh-Hans.md#apple用语术语表)을 확인하십시오. 본문은 중국어 간체로 작성되어 있지만 표에는 모든 언어가 포함되어 있습니다.

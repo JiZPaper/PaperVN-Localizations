@@ -59,3 +59,7 @@ Requires an iPhone with iOS 26 or later, or an iPad with iPadOS 26 or later.
 ## License
 
 Unless otherwise noted, data provided by the PaperVN developer is free content released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+## Apple Terminology Glossary
+
+PaperVN’s interface text follows Apple’s own wording in all seven languages (Simplified Chinese, Traditional Chinese, English, Japanese, Korean, German, and Polish). Before adding or changing a translation, check the [Apple terminology glossary](./README.zh-Hans.md#apple用语术语表). It is written in Simplified Chinese, but its tables cover every language.
