@@ -64,7 +64,7 @@ PaperVN 已为 VNDB 中 6,000 多个视觉小说标签与角色特征提供本�
 
 PaperVN 的界面文案照 Apple 自己的用词写，七种语言都是。新增或修改文案前先查这张表；表里没有的词，到系统 App 里看同类的地方怎么写。繁体中文照 Apple 台湾的用词（例如“分享”“開啟”），不从简体直接转换。
 
-**以 iOS 为准。** PaperVN 是 iPhone App，表里的统计来自 Xcode 的 iOS 27.1 模拟器运行时（所有系统 App 与框架，和 iPhone 上的本地化文件相同）：367,367 条字符串，按简中、繁中、英、日、韩、德、波兰语对齐。本机 macOS 26.7“系统设置”的 17,119 条作为参考，两边不一样时照 iOS（例如 macOS 用“存储”“载入”，iOS 用“保存”“加载”）。
+共用界面优先参考 iOS。资料来自 iOS 27.1 的系统 App 与框架（367,367 条）及 macOS 26.7.2 的系统设置（17,119 条）。2026-11-18 又核对了 Mac 系统 App、CoreServices 和框架的本地化资源。Mac 专属界面按实际输入设备和入口选词，例如鼠标用“点按”，触摸屏用“轻点”；Mac 的“聚焦”说明写“在‘聚焦’中搜索”。
 
 ### 简体中文
 
@@ -126,6 +126,27 @@ PaperVN 的界面文案照 Apple 自己的用词写，七种语言都是。新�
 - 分组标题用名词（“搜索结果”“显示模块”）。
 - 不用语气词和感叹号（Today 里刻意的俏皮话除外）。
 - Bangumi 的中文名写“Bangumi番组计划”。
+
+### 系统名称与控件语境
+
+| 用途 | 简体中文 | 其他语言或使用条件 |
+|---|---|---|
+| Spotlight 搜索 | 聚焦、在“聚焦”中显示资料库 | 繁中和英文保留 Spotlight。Mac 入口写“聚焦”，iPhone 可写“主屏幕”。 |
+| 保存 Screenshot | 截屏 | 繁中用「截圖」。主界面和照片权限说明使用同一个词。 |
+| Preferred Language、Sort By、Unmute | 首选语言、排序方式、取消静音 | 文件或地区的 Choose… 按钮用“选取…”。 |
+| Ethernet | 以太网 | 繁中用「乙太網路」。用于明确识别为 Ethernet 的网络接口。 |
+| Low Data Mode、Low Power Mode | 低数据模式、低电量模式 | 德语为 Datensparmodus、Stromsparmodus；波兰语为 Niski transfer danych、Tryb Niskie zużycie energii。 |
+| Language & Region、Deselect All | 语言与地区、取消全选 | 德语为 Sprache & Region、Auswahl aufheben；韩语的 Deselect All 为 전체 선택 해제。 |
+| Username、Server、App | 用户名、服务器、App | 日语用“ユーザ名”“サーバ”“アプリ”。第三方品牌自有名称依原文。 |
+| Start Date、End Date | 开始日期、结束日期 | 仅显示日期时，日语用“開始日”“終了日”。 |
+| 添加按钮、已添加的状态 | 添加、已添加 | 英文用 Add、Added。日期按钮用 Add Date，排序字段用 Date Added。分别建键，包括旁白标签。 |
+| 撤销最后一步、回到历史位置 | 撤销、回退 | 英文分别用 Undo、Revert。 |
+| 指针操作、修饰键 | 点按、辅助点按、按住Control键 | Mac 的 Click 用“点按”；Secondary Click 是“辅助点按”。Control 两侧不加空格。 |
+| 加载错误 | 无法加载 | Mac 专属提示可沿用系统的“无法载入”。 |
+
+资料库的正篇指特别篇所属的那一部作品。合并显示开关用 **与“正篇”合并显示**，英文用 **Show with Main Story**。作品类型的英文用 **Special**；设置分组、编辑分组、Mac 子菜单用 **Specials**。MAL 的 `parent_story` 关系仍显示为“系列”。分组角标可显示 `1/3`，旁白说出总数和已看完的部数。
+
+德语省略号前使用不换行空格（U+00A0），例如 `Auswählen …`。日语文件夹名使用弯双引号，确认问句以半角问号结尾。繁中提交动作用「送出」；分组或按钮中的「查看全部」优先使用「顯示全部」。
 
 ### 各语言的写法
 
